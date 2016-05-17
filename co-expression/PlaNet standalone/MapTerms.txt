@@ -1,0 +1,1702 @@
+23.1.1.1	nucleotide metabolism.synthesis.pyrimidine.carbamoyl phosphate synthetase
+16.1.2.1008	secondary metabolism.isoprenoids.mevalonate pathway
+16.1.4.21	secondary metabolism.isoprenoids.carotenoids.violaxanthin de-epoxidase
+1.1.5.1	PS.lightreaction.other electron carrier (ox/red).plastocyanin
+1.1.5.2	PS.lightreaction.other electron carrier (ox/red).ferredoxin
+1.1.5.3	PS.lightreaction.other electron carrier (ox/red).ferredoxin reductase
+1.1.5.4	PS.lightreaction.other electron carrier (ox/red).ferredoxin oxireductase
+29.2.1.2.1.31	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.SA
+29.2.1.2.1.30	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S30
+13.1.5.3.1004	amino acid metabolism.synthesis.serine-glycine-cysteine group.cysteine
+13.1.5.3.1003	amino acid metabolism.synthesis.serine-glycine-cysteine group.cysteine
+13.1.5.3.1002	amino acid metabolism.synthesis.serine-glycine-cysteine group.cysteine
+13.1.5.3.1001	amino acid metabolism.synthesis.serine-glycine-cysteine group.cysteine
+13.1.2.3.21	amino acid metabolism.synthesis.glutamate family.arginine.ornithine carbamoyltransferase
+13.1.2.3.23	amino acid metabolism.synthesis.glutamate family.arginine.argininosuccinate lyase
+13.1.2.3.22	amino acid metabolism.synthesis.glutamate family.arginine.arginosuccinate synthase
+3.99.1021	minor CHO metabolism.misc
+3.99.1020	minor CHO metabolism.misc
+3.99.1023	minor CHO metabolism.misc
+3.99.1022	minor CHO metabolism.misc
+3.99.1025	minor CHO metabolism.misc
+3.99.1024	minor CHO metabolism.misc
+3.99.1027	minor CHO metabolism.misc.Laminaribiose
+3.99.1026	minor CHO metabolism.misc
+29.2.1.1.1.1.31	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.30S subunit.S31
+29.2.1.1.2.1.29	protein.synthesis.ribosomal protein.prokaryotic.mitochondrion.30S subunit.S29
+29.2.1.1.2.1.27	protein.synthesis.ribosomal protein.prokaryotic.mitochondrion.30S subunit.S27
+29.2.1.1.3.1.18	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.30S subunit.S18
+29.2.1.1.3.1.15	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.30S subunit.S15
+29.2.1.1.3.1.17	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.30S subunit.S17
+29.2.1.1.3.1.16	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.30S subunit.S16
+29.2.1.1.3.1.12	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.30S subunit.S12
+23.1.2.8	nucleotide metabolism.synthesis.purine.SAICAR lyase
+23.1.2.9	nucleotide metabolism.synthesis.purine.AICAR transformylase and IMP synthase
+23.2.2.1005	nucleotide metabolism.degradation.purines
+23.2.2.1004	nucleotide metabolism.degradation.purines
+23.1.2.2	nucleotide metabolism.synthesis.purine.GAR Synthetase
+23.2.2.1006	nucleotide metabolism.degradation.purines
+23.1.2.4	nucleotide metabolism.synthesis.purine.FGAR amidotransferase
+23.1.2.5	nucleotide metabolism.synthesis.purine.AIR synthase
+23.2.2.1003	nucleotide metabolism.degradation.purines
+23.1.2.7	nucleotide metabolism.synthesis.purine.SAICAR synthetase
+29.2.1.99.99	protein.synthesis.ribosomal protein.unknown.unknown
+13.1.3.1.1001	amino acid metabolism.synthesis.aspartate family.asparagine
+28.99	DNA.unspecified
+2.2.2	major CHO metabolism.degradation.starch
+2.2.1.1001	major CHO metabolism.degradation.sucrose
+2.2.1.1002	major CHO metabolism.degradation.sucrose
+17.3.1.1.99	hormone metabolism.brassinosteroid.synthesis-degradation.BRs.other
+29.2.1.2.2.57	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L7A
+18.11	Co-factor and vitamine metabolism.lipoic acid
+18.13	Co-factor and vitamine metabolism.isochorismatase
+29.2.1.2.2.83	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.P3
+29.2.1.2.2.82	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.P2
+5.10	fermentation.aldehyde dehydrogenase
+33.99	development.unspecified
+17.6.1.1001	hormone metabolism.gibberelin.synthesis-degradation
+27.3.41	RNA.regulation of transcription.B3 transcription factor family
+27.3.40	RNA.regulation of transcription.Aux/IAA family
+27.3.42	RNA.regulation of transcription.Bromodomain proteins
+13.1.4.4.3	amino acid metabolism.synthesis.branched chain group.leucine specific.3-isopropylmalate dehydrogenase
+27.3.44	RNA.regulation of transcription.Chromatin Remodeling Factors
+13.1.4.4.1	amino acid metabolism.synthesis.branched chain group.leucine specific.2-isopropylmalate synthase
+27.3.46	RNA.regulation of transcription.DNA methyltransferases
+27.3.49	RNA.regulation of transcription.GeBP like
+27.3.48	RNA.regulation of transcription.FHA transcription factor
+12.3.1	N-metabolism.N-degradation.glutamate dehydrogenase
+29.2.1.1.3.2.1712	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.50S subunit.L7/L12
+23.1.2.1001	nucleotide metabolism.synthesis.purines
+23.1.2.1002	nucleotide metabolism.synthesis.purines
+23.1.2.1003	nucleotide metabolism.synthesis.purines
+23.1.2.1004	nucleotide metabolism.synthesis.purines
+23.1.2.1005	nucleotide metabolism.synthesis.purines
+23.1.2.1006	nucleotide metabolism.synthesis.purines
+23.1.2.1007	nucleotide metabolism.synthesis.purines
+23.1.2.1008	nucleotide metabolism.synthesis.purines
+23.1.2.1009	nucleotide metabolism.synthesis.purines
+5.1001	fermentation
+5.1002	fermentation
+20.1001	stress
+20.1003	stress
+11.8.8	lipid metabolism.exotics (steroids, squalene etc).squalene synthase
+11.8.4	lipid metabolism.exotics (steroids, squalene etc).3-beta hydroxysteroid dehydrogenase/isomerase
+11.8.7	lipid metabolism.exotics (steroids, squalene etc).trans-2-enoyl-CoA reductase (NADPH)
+11.8.1	lipid metabolism.exotics (steroids, squalene etc).sphingolipids
+11.8.2	lipid metabolism.exotics (steroids, squalene etc).methylsterol monooxygenase
+11.8.3	lipid metabolism.exotics (steroids, squalene etc).UDP-glucose:sterol glucosyltransferase
+8.1.2	TCA / org. transformation.TCA.CS
+8.1.3	TCA / org. transformation.TCA.aconitase
+8.1.4	TCA / org. transformation.TCA.IDH
+8.1.5	TCA / org. transformation.TCA.2-oxoglutarate dehydrogenase
+8.1.6	TCA / org. transformation.TCA.succinyl-CoA ligase
+8.1.7	TCA / org. transformation.TCA.succinate dehydrogenase
+8.1.8	TCA / org. transformation.TCA.fumarase
+8.1.9	TCA / org. transformation.TCA.malate DH
+1.3.13	PS.calvin cyle.rubisco interacting
+1.3.12	PS.calvin cyle.PRK
+1.3.11	PS.calvin cyle.RPE
+1.3.10	PS.calvin cyle.Rib5P Isomerase
+13.2.7	amino acid metabolism.degradation.histidine
+13.2.4.4	amino acid metabolism.degradation.branched-chain group.leucine
+13.2.4.5	amino acid metabolism.degradation.branched chain group.isoleucine
+13.2.4.1	amino acid metabolism.degradation.branched-chain group.shared
+13.2.4.3	amino acid metabolism.degradation.branched-chain group.valine
+6.5	gluconeogenese/ glyoxylate cycle.pyruvate dikinase
+6.4	gluconeogenese/ glyoxylate cycle.PEPCK
+6.3	gluconeogenesis.Malate DH
+6.2	gluconeogenese/ glyoxylate cycle.malate synthase
+6.1	gluconeogenese/ glyoxylate cycle.citrate synthase
+12.4	N-metabolism.misc
+6.9	gluconeogenese/ glyoxylate cycle.isocitrate lyase
+10.1	cell wall.precursor synthesis
+10.3	cell wall.hemicellulose synthesis
+10.2	cell wall.cellulose synthesis
+10.5	cell wall.cell wall proteins
+10.4	cell wall.pectin synthesis
+10.7	cell wall.modification
+10.6	cell wall.degradation
+16.7	secondary metabolism.wax
+16.5	secondary metabolism.sulfur-containing
+16.2	secondary metabolism.phenylpropanoids
+13.2.2.3.1001	amino acid metabolism.degradation.glutamate family.arginine
+21.2.1.4	redox.ascorbate and glutathione.ascorbate.L-galactose dehydrogenase
+21.2.1.5	redox.ascorbate and glutathione.ascorbate.L-Galactono-1,4-lactone dehydrogenase
+21.2.1.2	redox.ascorbate and glutathione.ascorbate.GDP-L-galactose-hexose-1-phosphate guanyltransferase
+21.2.1.3	redox.ascorbate and glutathione.ascorbate.L-galactose-1-phosphate phosphatase
+21.2.1.1	redox.ascorbate and glutathione.ascorbate.GME
+27.1.19	RNA.processing.ribonucleases
+29.2.1.2.2.32	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L32
+17.6.3	hormone metabolism.gibberelin.induced-regulated-responsive-activated
+29.2.1.2.2.30	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L30
+13.1.1.3.10001	amino acid synthesis.alanine
+29.2.1.2.2.31	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L31
+16.5.1	secondary metabolism.sulfur-containing.glucosinolates
+29.2.1.2.1.28	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S28
+29.2.1.2.1.29	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S29
+8.2.99	TCA / org. transformation.other organic acid transformaitons.misc
+29.2.1.2.1.24	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S24
+29.2.1.2.1.25	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S25
+29.2.1.2.1.26	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S26
+29.2.1.2.1.27	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S27
+29.2.1.2.1.20	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S20
+29.2.1.2.1.21	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S21
+29.2.1.2.1.23	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S23
+22.1002	polyamine metabolism
+22.1003	polyamine metabolism
+22.1001	polyamine metabolism
+22.1004	polyamine metabolism
+22.1005	polyamine metabolism
+10.3.2	cell wall.hemicellulose synthesis.glucuronoxylan
+13.1.2.3.31	amino acid metabolism.synthesis.glutamate family.arginine.aspartate racemase
+29.2.3.1	protein.synthesis.initiation.deoxyhypusine synthase
+18.2.2	Co-factor and vitamine metabolism.thiamine.hydroxymethylpyrimidine kinase
+18.2.1	Co-factor and vitamine metabolism.thiamine.thiamine diphosphokinase
+30.2.16	signalling.receptor kinases.Catharanthus roseus-like RLK1
+16.2.99.1001	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1002	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1003	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1005	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1006	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1007	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1008	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1009	secondary metabolism.phenylpropanoids.unspecified
+29.2.1.1.1.1.20	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.30S subunit.S20
+19.16	tetrapyrrole synthesis.chlorophyll b synthase
+19.14	tetrapyrrole synthesis.protochlorophyllide reductase
+19.15	tetrapyrrole synthesis.chlorophyll synthase
+19.12	tetrapyrrole synthesis.magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase
+29.1.22	protein.aa activation.asparagine-tRNA ligase
+19.10	tetrapyrrole synthesis.magnesium chelatase
+29.1.20	protein.aa activation.phenylalanine-tRNA ligase
+29.2.1.1.2.1.31	protein.synthesis.ribosomal protein.prokaryotic.mitochondrion.30S subunit.S31
+29.2.3	protein.synthesis.initiation
+29.2.2	protein.synthesis.misc ribosomal protein
+29.2.6	protein.synthesis.ribosomal RNA
+29.2.5	protein.synthesis.release
+29.2.4	protein.synthesis.elongation
+29.4.1	protein.postranslational modification.kinase
+18.6.1	Co-factor and vitamine metabolism.biotin.biotin synthase
+18.8.1	Co-factor and vitamine metabolism.ubiquinone.hexaprenyldihydroxybenzoate methyltransferase
+10.2.1009	cell wall degradation
+10.2.1008	cell wall degradation
+20.1.7	stress.biotic.PR-proteins
+18.5.2.1	Co-factor and vitamine metabolism.folate & vitamine K.vitamine K.isochorismate synthase
+20.1.1	stress.biotic.respiratory burst
+16.2.1.10	secondary metabolism.phenylpropanoids.lignin biosynthesis.CAD
+20.1.2	stress.biotic.receptors
+18.1	Co-factor and vitamine metabolism.molybdenum cofactor
+10.2.1003	cell wall degradation
+10.2.1002	cell wall degradation
+10.2.1005	cell wall degradation
+10.2.1004	cell wall degradation
+10.2.1007	cell wall degradation
+10.2.1006	cell wall degradation
+30.9	signalling.lipids
+30.8	signalling.misc
+30.3	signalling.calcium
+30.2	signalling.receptor kinases
+18.5.2.5	Co-factor and vitamine metabolism.vitamine K.naphthoate synthase
+30.7	signalling.14-3-3 proteins
+30.6	signalling.MAP kinases
+30.5	signalling.G-proteins
+30.4	signalling.phosphinositides
+16.1.4	secondary metabolism.isoprenoids.carotenoids
+16.1.5	secondary metabolism.isoprenoids.terpenoids
+16.1.2	secondary metabolism.isoprenoids.mevalonate pathway
+16.1.3	secondary metabolism.isoprenoids.tocopherol biosynthesis
+16.1.1	secondary metabolism.isoprenoids.non-mevalonate pathway
+27.3.58	RNA.regulation of transcription.LUG
+27.3.59	RNA.regulation of transcription.Methyl binding domain proteins
+27.3.57	RNA.regulation of transcription.JUMONJI family
+27.3.54	RNA.regulation of transcription.Histone acetyltransferases
+27.3.55	RNA.regulation of transcription.HDA
+27.3.52	RNA.regulation of transcription.Global transcription factor group
+27.3.53	RNA.regulation of transcription.High mobility group (HMG) family
+27.3.50	RNA.regulation of transcription.General Transcription
+19.99	tetrapyrrole synthesis.unspecified
+3.3.1010	minor CHO metabolism.sugar alcohols
+3.3.1011	minor CHO metabolism.sugar alcohols
+3.3.1012	minor CHO metabolism.sugar alcohols
+29.2.1.99.2.1185	protein.synthesis.ribosomal protein.unknown.large subunit.L18/L5
+34.1.1	transport.p- and v-ATPases.H+-transporting two-sector ATPase
+10.8.99	cell wall.pectin*esterases.misc
+7.3	OPP.electron transfer
+9.1.1.5	mitochondrial electron transport / ATP synthesis.NADH-DH.complex I.carbonic anhydrase
+13.1.3.1.1	amino acid metabolism.synthesis.aspartate family.asparagine.asparagine synthetase
+35.1.9	not assigned.no ontology.BTB/POZ domain-containing protein
+35.1.8	not assigned.no ontology.BSD domain-containing protein
+35.1.7	not assigned.no ontology.AT hook motif-containing protein
+35.1.6	not assigned.no ontology.Toll-Interleukin-Resistance (TIR) domain-containing protein
+35.1.5	not assigned.no ontology.pentatricopeptide (PPR) repeat-containing protein
+35.1.3	not assigned.no ontology.armadillo/beta-catenin repeat family protein
+35.1.2	not assigned.no ontology.agenet domain-containing protein
+35.1.1	not assigned.no ontology.ABC1 family protein
+27.3.1	RNA.regulation of transcription.ABI3/VP1-related B3-domain-containing transcription factor family
+27.3.2	RNA.regulation of transcription.Alfin-like
+27.3.3	RNA.regulation of transcription.AP2/EREBP, APETALA2/Ethylene-responsive element binding protein family
+27.3.4	RNA.regulation of transcription.ARF, Auxin Response Factor family
+27.3.5	RNA.regulation of transcription.ARR
+27.3.6	RNA.regulation of transcription.bHLH,Basic Helix-Loop-Helix family
+27.3.7	RNA.regulation of transcription.C2C2(Zn) CO-like, Constans-like zinc finger family
+27.3.8	RNA.regulation of transcription.C2C2(Zn) DOF zinc finger family
+27.3.9	RNA.regulation of transcription.C2C2(Zn) GATA transcription factor family
+2.1.1.1005	major CHO metabolism.synthesis.sucrose
+2.1.1.1004	major CHO metabolism.synthesis.sucrose
+2.1.1.1007	major CHO metabolism.synthesis.sucrose
+2.1.1.1006	major CHO metabolism.synthesis.sucrose
+2.1.1.1001	major CHO metabolism.synthesis.sucrose
+2.1.1.1003	major CHO metabolism.synthesis.sucrose
+2.1.1.1002	major CHO metabolism.synthesis.sucrose
+2.1.1.1008	major CHO metabolism.synthesis.sucrose
+29.2.1.1.2.51	protein.synthesis.ribosomal protein.prokaryotic.mitochondrion.L51/S25/CI-B8
+29.2.1.2.2.1730	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L7/L30/S12
+29.2.1.1.3.2.4	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.50S subunit.L4
+29.2.1.1.3.2.2	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.50S subunit.L2
+29.2.1.1.3.2.1	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.50S subunit.L1
+29.2.1.1.3.2.9	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.50S subunit.L9
+16.1.3.5	secondary metabolism.isoprenoids.tocopherol biosynthesis.tocopherol methyltransferase
+16.1.3.4	secondary metabolism.isoprenoids.tocopherol biosynthesis.tocopherol cyclase
+16.1.3.1	secondary metabolism.isoprenoids.tocopherol biosynthesis.hydroxyphenylpyruvate dioxygenase
+16.1.3.3	secondary metabolism.isoprenoids.tocopherol biosynthesis.MPBQ/MSBQ methyltransferase
+16.1.3.2	secondary metabolism.isoprenoids.tocopherol biosynthesis.homogentisate phytyltransferase
+29.2.1.2.1.53	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S3A
+17.1.1.1002	hormone metabolism.abscisic acid.synthesis-degradation
+29.2.1.1.1.2.24	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L24
+29.2.1.1.1.2.23	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L23
+29.2.1.1.1.2.22	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L22
+29.2.1.1.1.2.21	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L21
+29.2.1.1.1.2.20	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L20
+13.1.5.3	amino acid metabolism.synthesis.serine-glycine-cysteine group.cysteine
+29.2.1.1.1.2.29	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L29
+29.2.1.1.1.2.28	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L28
+13.1.7.8	amino acid metabolism.synthesis.histidine.histidinol dehydrogenase
+13.1.7.1	amino acid metabolism.synthesis.histidine.ATP phosphoribosyl transferase
+13.1.7.2	amino acid metabolism.synthesis.histidine.bifunctional phosphoribosyl-ATP diphosphatase and phosphoribosyl-AMP cyclohydrolase
+13.1.7.3	amino acid metabolism.synthesis.histidine.N-5-phosphoribosyl-formimino-5-aminoimidazole-4-carboxamide ribonucleotide isomerase
+13.1.7.4	amino acid metabolism.synthesis.histidine.glutamine amidotransferase/cyclase
+13.1.7.5	amino acid metabolism.synthesis.histidine.imidazoleglycerol-phosphate dehydratase
+13.1.7.6	amino acid metabolism.synthesis.histidine.histidinol-phosphate aminotransferase
+29.2.1.1.3.99	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.unknown
+8.2.1001	TCA / org. transformation. Various
+8.2.1003	TCA / org. transformation. Various
+8.2.1002	TCA / org. transformation. Various
+8.2.1005	TCA / org. transformation. Various
+8.2.1004	TCA / org. transformation. Various
+3.99.1007	minor CHO metabolism.misc
+3.99.1006	minor CHO metabolism.misc
+3.99.1005	minor CHO metabolism.misc
+3.99.1004	minor CHO metabolism.misc
+3.99.1003	minor CHO metabolism.misc
+3.99.1002	minor CHO metabolism.misc
+3.99.1001	minor CHO metabolism.misc
+23.1.2.1	nucleotide metabolism.synthesis.purine.amidophosphoribosyltransferase
+23.2.2.1007	nucleotide metabolism.degradation.purines
+3.99.1009	minor CHO metabolism.misc
+3.99.1008	minor CHO metabolism.misc
+16.2.99.1013	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1012	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1011	secondary metabolism.phenylpropanoids.unspecified
+23.1.2.3	nucleotide metabolism.synthesis.purine.GAR transformylase
+16.2.99.1017	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1016	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1015	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1014	secondary metabolism.phenylpropanoids.unspecified
+34.2.1	transporter.sugars.sucrose
+23.2.2.1001	nucleotide metabolism.degradation.purines
+16.2.99.1019	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1018	secondary metabolism.phenylpropanoids.unspecified
+29.2.1.1.1.2.16	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L16
+19.21	tetrapyrrole synthesis.heme oxygenase
+19.20	tetrapyrrole synthesis.ferrochelatase
+29.1.30	protein.aa activation.pseudouridylate synthase
+26.28	misc.GDSL-motif lipase
+29.2.1.1.1.2.17	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L17
+13.1.2.2.1001	amino acid metabolism.synthesis.glutamate family.proline
+26.24	misc.GCN5-related N-acetyltransferase
+26.27	misc.calcineurin-like phosphoesterase family protein
+23.2.2.1002	nucleotide metabolism.degradation.purines
+26.21	misc.protease inhibitor/seed storage/lipid transfer protein (LTP) family protein
+26.23	misc.rhodanese
+26.22	misc.short chain dehydrogenase/reductase (SDR)
+29.2.1.1.1.2.13	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L13
+29.2.1.1.1.2.10	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L10
+16.1.3.1005	secondary metabolism.isoprenoids.tocopherol biosynthesis
+16.1.3.1004	secondary metabolism.isoprenoids.tocopherol biosynthesis
+16.1.3.1003	secondary metabolism.isoprenoids.tocopherol biosynthesis
+16.1.3.1002	secondary metabolism.isoprenoids.tocopherol biosynthesis
+16.1.3.1001	secondary metabolism.isoprenoids.tocopherol biosynthesis
+29.2.1.2.2.2	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L2
+29.2.1.2.2.3	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L3
+29.2.1.2.2.1	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L1
+29.2.1.2.2.6	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L6
+29.2.1.2.2.7	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L7
+29.2.1.2.2.5	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L5
+29.2.1.2.2.8	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L8
+29.2.1.2.2.9	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L9
+17.1.1.2.1	hormone metabolism.abscisic acid.synthesis-degradation.degradation.8-hydroxylase
+30.1008	signaling
+29.2.1.2.2.38	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L38
+29.2.1.2.2.39	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L39
+30.1004	signaling
+10.2.1012	cell wall degradation
+10.2.1013	cell wall degradation
+10.2.1010	cell wall degradation
+10.2.1011	cell wall degradation
+29.2.1.2.2.36	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L36
+29.2.1.2.2.37	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L37
+29.2.1.2.2.34	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L34
+29.2.1.2.2.35	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L35
+29.1.9	protein.aa activation.valine-tRNA ligase
+11.1.31	lipid metabolism.FA synthesis and FA elongation.pyruvate DH
+30.2.9	signalling.receptor kinases.leucine rich repeat IX
+23.3.3	nucleotide metabolism.salvage.NUDIX hydrolases
+2.1.2.60	major CHO metabolism.synthesis.starch.ADP Glucose Phosphorylase
+27.3.29	RNA.regulation of transcription.TCP transcription factor family
+29.3.5	protein.targeting.peroxisomes
+27.3.23	RNA.regulation of transcription.HSF,Heat-shock transcription factor family
+27.3.22	RNA.regulation of transcription.HB,Homeobox transcription factor family
+27.3.21	RNA.regulation of transcription.GRAS transcription factor family
+27.3.20	RNA.regulation of transcription.G2-like transcription factor family, GARP
+27.3.27	RNA.regulation of transcription.NAC domain transcription factor family
+27.3.26	RNA.regulation of transcription.MYB-related transcription factor family
+27.3.25	RNA.regulation of transcription.MYB domain transcription factor family
+27.3.24	RNA.regulation of transcription.MADS box transcription factor family
+3.3.1009	minor CHO metabolism.sugar alcohols
+3.3.1008	minor CHO metabolism.sugar alcohols
+3.3.1007	minor CHO metabolism.sugar alcohols
+3.3.1006	minor CHO metabolism.sugar alcohols
+3.3.1005	minor CHO metabolism.sugar alcohols
+3.3.1004	minor CHO metabolism.sugar alcohols
+3.3.1003	minor CHO metabolism.sugar alcohols
+3.3.1002	minor CHO metabolism.sugar alcohols
+3.3.1001	minor CHO metabolism.sugar alcohols
+29.1.4	protein.aa activation.leucine-tRNA ligase
+29.1.5	protein.aa activation.isoleucine-tRNA ligase
+29.1.6	protein.aa activation.lysine-tRNA ligase
+29.1.7	protein.aa activation.alanine-tRNA ligase
+30.1009	signaling
+29.1.1	protein.aa activation.tyrosine-tRNA ligase
+29.1.3	protein.aa activation.threonine-tRNA ligase
+30.1005	signaling
+29.2.1.1.1.1.7	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.30S subunit.S7
+30.1007	signaling
+30.1006	signaling
+30.1001	signaling
+23.3.1	nucleotide metabolism.salvage.phosphoribosyltransferases
+30.1003	signaling
+12.2.1002	N-metabolism.ammonia metabolism
+16.4.1.1002	secondary metabolism.N misc.alkaloid-like
+16.4.1.1003	secondary metabolism.N misc.alkaloid-like
+29.3.4	protein.targeting.secretory pathway
+16.4.1.1001	secondary metabolism.N misc.alkaloid-like
+16.4.1.1006	secondary metabolism.N misc.alkaloid-like
+29.2.1.1.1.1.5	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.30S subunit.S5
+16.4.1.1004	secondary metabolism.N misc.alkaloid-like
+16.4.1.1005	secondary metabolism.N misc.alkaloid-like
+23.1.3	nucleotide metabolism.synthesis.PRS-PP
+29.2.1.2.2.28	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L28
+1.1.30	PS.lightreaction.state transition
+18.5.2	Co-factor and vitamine metabolism.folate & vitamine K.vitamine K
+16.5.1.2.1	secondary metabolism.sulfur-containing.glucosinolates.regulation.aliphatic
+16.5.1.2.3	secondary metabolism.sulfur-containing.glucosinolates.regulation.indole
+30.1002	signaling
+17.3.1.1.5	hormone metabolism.brassinosteroid.synthesis-degradation.BRs.metabolic regulation
+17.3.1.1.4	hormone metabolism.brassinosteroid.synthesis-degradation.BRs.BR6OX
+17.3.1.1.1	hormone metabolism.brassinosteroid.synthesis-degradation.BRs.DET2
+17.3.1.1.3	hormone metabolism.brassinosteroid.synthesis-degradation.BRs.CPD
+17.3.1.1.2	hormone metabolism.brassinosteroid.synthesis-degradation.BRs.DWF4
+29.5.11.5	protein.degradation.ubiquitin.ubiquitin protease
+29.5.11.3	protein.degradation.ubiquitin.E2
+29.5.11.2	protein.degradation.ubiquitin.E1
+29.5.11.1	protein.degradation.ubiquitin.ubiquitin
+2.1.2.4	major CHO metabolism.synthesis.starch.debranching
+2.1.2.1	major CHO metabolism.synthesis.starch.AGPase
+2.1.2.2	major CHO metabolism.synthesis.starch.starch synthase
+2.1.2.3	major CHO metabolism.synthesis.starch.starch branching
+29.2.1.2.1.15	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S15
+13.1.3.2.1001	amino acid metabolism.synthesis.aspartate family.threonine
+16.1.4.10	secondary metabolism.isoprenoids.carotenoids.carotenoid cleavage dioxygenase
+34.19.1	transport.Major Intrinsic Proteins.PIP
+29.2.1.1.1.2.34	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L34
+29.2.1.1.1.2.36	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L36
+29.2.1.1.1.2.31	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L31
+29.2.1.1.1.2.32	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L32
+29.2.1.1.1.2.33	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L33
+1.2.1006	PS.photorepiration.hydroxypyruvate
+28.1.1.1	DNA.synthesis/chromatin structure.retrotransposon/transposase.gypsy-like retrotransposon
+28.1.1.2	DNA.synthesis/chromatin structure.retrotransposon/transposase.non-LTR retrotransposon
+28.1.1.3	DNA.synthesis/chromatin structure.retrotransposon/transposase.copia-like retrotransposon
+28.1.1.4	DNA.synthesis/chromatin structure.retrotransposon/transposase.hat-like transposase
+28.1.1.5	DNA.synthesis/chromatin structure.retrotransposon/transposase.CACTA-like transposase
+28.1.1.6	DNA.synthesis/chromatin structure.retrotransposon/transposase.Mariner-like transposase
+28.1.1.7	DNA.synthesis/chromatin structure.retrotransposon/transposase.mutator-like transposase
+21.5	redox.peroxiredoxin
+21.4	redox.glutaredoxins
+21.6	redox.dismutases and catalases
+21.1	redox.thioredoxin
+21.3	redox.heme
+21.2	redox.ascorbate and glutathione
+29.2.1.2.2.21	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L21
+30.1.2	signalling.in sugar and nutrient physiology.pyruvate dehydrogenase kinase
+30.1.1	signalling.in sugar and nutrient physiology
+3.99.1018	minor CHO metabolism.misc
+3.99.1019	minor CHO metabolism.misc
+13.1.3.6.1.3	amino acid metabolism.synthesis.aspartate family.misc.homoserine.homoserine dehydrogenase
+13.1.3.6.1.2	amino acid metabolism.synthesis.aspartate family.misc.homoserine.aspartate semialdehyde dehydrogenase
+13.1.3.6.1.1	amino acid metabolism.synthesis.aspartate family.misc.homoserine.aspartate kinase
+3.99.1013	minor CHO metabolism.misc
+3.99.1014	minor CHO metabolism.misc
+3.99.1015	minor CHO metabolism.misc
+3.99.1016	minor CHO metabolism.misc
+13.1.3.6.1.4	amino acid metabolism.synthesis.aspartate family.misc.homoserine.homoserine kinase
+16.2.99.1028	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1029	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1026	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1027	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1024	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1025	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1022	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1023	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1020	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1021	secondary metabolism.phenylpropanoids.unspecified
+13.1.3.4.1	amino acid metabolism.synthesis.aspartate family.methionine.cystathionine gamma-synthase
+13.1.3.4.2	amino acid metabolism.synthesis.aspartate family.methionine.cystathionine beta-lyase
+13.1.3.4.3	amino acid metabolism.synthesis.aspartate family.methionine.methionine synthase
+29.2.1.2.2.23	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L23
+21.5.1	redox.peroxiredoxin.BAS1
+29.2.1.1.2.1.10	protein.synthesis.ribosomal protein.prokaryotic.mitochondrion.30S subunit.S10
+29.2.1.1.2.1.11	protein.synthesis.ribosomal protein.prokaryotic.mitochondrion.30S subunit.S11
+29.2.1.1.2.1.16	protein.synthesis.ribosomal protein.prokaryotic.mitochondrion.30S subunit.S16
+29.2.1.1.2.1.14	protein.synthesis.ribosomal protein.prokaryotic.mitochondrion.30S subunit.S14
+19.30	tetrapyrrole synthesis.urogen III methylase
+26.30	misc. other Ferredoxins and Rieske domain
+35.1.26	not assigned.no ontology.DC1 domain containing protein
+1.1.3	PS.lightreaction.cytochrome b6/f
+1.1.2	PS.lightreaction.photosystem I
+1.1.5	PS.lightreaction.other electron carrier (ox/red)
+13.1.1.2.1	amino acid metabolism.synthesis.central amino acid metabolism.aspartate.aspartate aminotransferase
+1.1.6	PS.lightreaction.NADH DH
+16.2.1.1008	secondary metabolism.phenylpropanoids.lignin biosynthesis
+29.2.1.2.2.22	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L22
+35.2.1001	not assigned.unknown
+4.2.13	glycolysis.plastid branch.phosphoglycerate mutase
+13.1.6.1.5	amino acid metabolism.synthesis.aromatic aa.chorismate.shikimate kinase
+13.1.6.1.6	amino acid metabolism.synthesis.aromatic aa.chorismate.5-enolpyruvylshikimate-3-phosphate synthase
+13.1.6.1.7	amino acid metabolism.synthesis.aromatic aa.chorismate.chorismate synthase
+13.1.6.1.1	amino acid metabolism.synthesis.aromatic aa.chorismate.3-deoxy-D-arabino-heptulosonate 7-phosphate synthase
+4.2.15	glycolysis.plastid branch.pyruvate kinase (PK)
+13.1.6.3.1	amino acid metabolism.synthesis.aromatic aa.phenylalanine.arogenate dehydratase / prephenate dehydratase
+34.30	transport.H+ transporting pyrophosphatase
+29.3.4.4	protein.targeting.secretory pathway.plasma membrane
+29.3.4.2	protein.targeting.secretory pathway.golgi
+29.3.4.3	protein.targeting.secretory pathway.vacuole
+29.3.4.1	protein.targeting.secretory pathway.ER
+1.1.1004	PS.lightreaction.PS II.PQ
+1.1.1003	PS.lightreaction.binding proteins.Chlorophyll b
+1.1.1002	PS.lightreaction.binding proteins.Chlorophyll a
+1.1.1001	PS.lightreaction
+29.2.1.2.2.27	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L27
+13.1.6.5.1001	amino acid metabolism.synthesis.aromatic aa.tryptophan
+3.2.4	minor CHO metabolism.trehalose.trehalase
+3.2.1	minor CHO metabolism.trehalose.TPS
+3.2.2	minor CHO metabolism.trehalose.TPP
+3.2.3	minor CHO metabolism.trehalose.potential TPS/TPP
+26.25	misc.sulfotransferase
+29.2.1.2.2.26	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L26
+16.2.1.8	secondary metabolism.phenylpropanoids.lignin biosynthesis.F5H
+16.2.1.9	secondary metabolism.phenylpropanoids.lignin biosynthesis.COMT
+9.1.1	mitochondrial electron transport / ATP synthesis.NADH-DH.complex I
+35.3	not assigned.disagreeing hits
+16.2.1.6	secondary metabolism.phenylpropanoids.lignin biosynthesis.CCoAOMT
+9.1.2	mitochondrial electron transport / ATP synthesis.NADH-DH.localisation not clear
+16.2.1.1	secondary metabolism.phenylpropanoids.lignin biosynthesis.PAL
+16.2.1.2	secondary metabolism.phenylpropanoids.lignin biosynthesis.C4H
+16.2.1.3	secondary metabolism.phenylpropanoids.lignin biosynthesis.4CL
+11.1.20	lipid metabolism.FA synthesis and FA elongation.MCD
+16.1.2.9	secondary metabolism.isoprenoids.mevalonate pathway.farnesyl pyrophosphate synthetase
+16.1.2.1	secondary metabolism.isoprenoids.mevalonate pathway.acetyl-CoA C-acyltransferase
+16.1.2.2	secondary metabolism.isoprenoids.mevalonate pathway.HMG-CoA synthase
+16.1.2.3	secondary metabolism.isoprenoids.mevalonate pathway.HMG-CoA reductase
+16.1.2.4	secondary metabolism.isoprenoids.mevalonate pathway.mevalonate kinase
+16.1.2.5	secondary metabolism.isoprenoids.mevalonate pathway.phosphomevalonate kinase
+16.1.2.6	secondary metabolism.isoprenoids.mevalonate pathway.mevalonate diphosphate decarboxylase
+16.1.2.7	secondary metabolism.isoprenoids.mevalonate pathway.isopentenyl pyrophosphate:dimethyllallyl pyrophosphate isomerase
+27.3.38	RNA.regulation of transcription.AT-rich interaction domain containing transcription factor family
+0	control
+27.3.30	RNA.regulation of transcription.Trihelix, Triple-Helix transcription factor family
+27.3.31	RNA.regulation of transcription.TUB transcription factor family
+27.3.32	RNA.regulation of transcription.WRKY domain transcription factor family
+27.3.34	RNA.regulation of transcription.Orphan family
+27.3.35	RNA.regulation of transcription.bZIP transcription factor family
+27.3.36	RNA.regulation of transcription.Argonaute
+27.3.37	RNA.regulation of transcription.AS2,Lateral Organ Boundaries Gene Family
+10.1.30.1	cell wall.precursor synthesis.sugar kinases.galacturonic acid kinase
+10.1.30.2	ell wall.precursor synthesis.sugar kinases.arabinose-1-kinase
+23.3.2.2	nucleotide metabolism.salvage.nucleoside kinases.uridine kinase
+23.3.2.3	nucleotide metabolism.salvage.nucleoside kinases.thymidine kinase
+23.3.2.1	nucleotide metabolism.salvage.nucleoside kinases.adenosine kinase
+7.2.1	OPP.non-reductive PP.transketolase
+7.2.2	OPP.non-reductive PP.transaldolase
+4.3.5	glycolysis.unclear/dually targeted.phosphofructokinase (PFK)
+7.2.4	OPP.non-reductive PP.ribose 5-phosphate isomerase
+4.3.9	glycolysis.unclear/dually targeted.glyceraldehyde 3-phosphate dehydrogenase (GAP-DH)
+11.1.1003	lipid metabolism.FA synthesis and FA elongation
+11.1.1002	lipid metabolism.FA synthesis and FA elongation
+11.1.1001	lipid metabolism.FA synthesis and FA elongation
+13.2.3.4.1	amino acid metabolism.degradation.aspartate family.methionine.methionine gamma-lyase
+29.7.10	protein.glycosylation.alpha-1,3-fucosyltransferase(alpha-1,3-FucT)
+29.7.13	protein.glycosylation.alpha-1,4-fucosyltransferase(alpha-1,4-FucT)
+27.3.47	RNA.regulation of transcription.ELF3
+16.5.1.1.3.1	secondary metabolism.sulfur-containing.glucosinolates.synthesis.indole.CYP79B2 monooxygenase
+16.5.1.1.3.3	secondary metabolism.sulfur-containing.glucosinolates.synthesis.indole.synthesis.indole-3-methyl-desulfoglucosinolate sulfotransferase
+16.5.1.1.3.2	secondary metabolism.sulfur-containing.glucosinolates.synthesis.indole.CYP79B3 monooxygenase
+16.5.1.1.3.4	secondary metabolism.sulfur-containing.glucosinolates.synthesis.indole.synthesis.cytochrome P450 monooxygenase
+13.1.3.6.2.1001	amino acid metabolism.synthesis.aspartate family.misc.homocysteine
+13.1.4.5.1001	amino acid metabolism.synthesis.branched chain group.isoleucine specific
+23.1.99	nucleotide metabolism.synthesis.unspecified
+16.99	secondary metabolism.unspecified
+11.10.2	lipid metabolism.glycolipid synthesis.DGDG synthase
+11.10.3	lipid metabolism.glycolipid synthesis.UDP-sulfoquinovose synthase
+11.10.1	lipid metabolism.glycolipid synthesis.MGDG synthase
+29.3.4.99	protein.targeting.secretory pathway.unspecified
+11.10.4	lipid metabolism.glycolipid synthesis.sulfolipid synthase
+10.4.4.1	cell wall.pectin synthesis.Xylogalacturonan.Xylose Transferase
+11.5.1002	lipid metabolism.glyceral metabolism
+11.5.1001	lipid metabolism.glyceral metabolism
+13.1.3.4.1001	amino acid metabolism.synthesis.aspartate family.methionine
+13.1.3.4.1002	amino acid metabolism.synthesis.aspartate family.methionine
+13.1.3.4.1003	amino acid metabolism.synthesis.aspartate family.methionine
+16.2.99.1039	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1038	secondary metabolism.phenylpropanoids.unspecified
+3.4.1002	minor CHO metabolism.myo-inositol
+16.2.99.1030	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1033	secondary metabolism.phenylpropanoids.unspecified
+3.4.1001	minor CHO metabolism.myo-inositol
+16.2.99.1035	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1034	secondary metabolism.phenylpropanoids.unspecified
+3.4.1004	minor CHO metabolism.myo-inositol
+16.2.99.1036	secondary metabolism.phenylpropanoids.unspecified
+29.2.1.2.1.515	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S15A
+29.1.18	protein.aa activation.glutamine-tRNA ligase
+29.1.19	protein.aa activation.arginine-tRNA ligase
+29.1.16	protein.aa activation.cysteine-tRNA ligase
+19.40	tetrapyrrole synthesis.regulation
+29.1.14	protein.aa activation.glycine-tRNA ligase
+29.1.15	protein.aa activation.proline-tRNA ligase
+29.1.12	protein.aa activation.aspartate-tRNA ligase
+29.1.10	protein.aa activation.methionine-tRNA ligase
+29.1.11	protein.aa activation.serine-tRNA ligase
+11.2.4	lipid metabolism.FA desaturation.omega 6 desaturase
+11.2.3	lipid metabolism.FA desaturation.omega 3 desaturase
+11.2.1	lipid metabolism.FA desaturation.desaturase
+10.1.1.1	cell wall.precursor synthesis.NDP sugar pyrophosphorylase.GDP mannose
+10.1.1.2	cell wall.precursor synthesis.NDP sugar pyrophosphorylase.GDP fucose and fucokinase
+34.22	transport.cyclic nucleotide or calcium regulated channels
+34.20	transport.porins
+34.21	transport.calcium
+30.12	signalling.gravity
+30.11	signalling.light
+30.10	signalling.phosphorelay
+29.2.1.2.2.10	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L10
+29.2.1.2.2.11	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L11
+29.2.1.2.2.12	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L12
+29.2.1.2.2.13	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L13
+29.2.1.2.2.14	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L14
+29.2.1.2.2.15	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L15
+29.2.1.2.2.16	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L16
+29.2.1.2.2.17	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L17
+29.2.1.2.2.18	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L18
+29.2.1.2.2.19	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L19
+26.8	misc.nitrilases, *nitrile lyases, berberine bridge enzymes, reticuline oxidases, troponine reductases
+26.9	misc.glutathione S transferases
+11.1.15	lipid metabolism.FA synthesis and FA elongation.ACP desaturase
+26.7	misc.oxidases - copper, flavone etc.
+26.4	misc.beta 1,3 glucan hydrolases
+26.5	misc.acyl transferases
+11.1.11	lipid metabolism.FA synthesis and FA elongation.fatty acid elongase
+11.1.10	lipid metabolism.FA synthesis and FA elongation.beta ketoacyl CoA synthase
+11.1.13	lipid metabolism.FA synthesis and FA elongation.acyl-CoA binding protein
+26.1	misc.misc2
+14.5	S-assimilation.sulfite oxidase
+14.1	S-assimilation.APS
+14.3	S-assimilation.sulfite redox
+14.2	S-assimilation.APR
+17.3.1.2.99	hormone metabolism.brassinosteroid.synthesis-degradation.sterols.other
+24.1	Biodegradation of Xenobiotics.hydroxyacylglutathione hydrolase
+24.2	Biodegradation of Xenobiotics.lactoylglutathione lyase
+24.3	Biodegradation of Xenobiotics.3-hydroxybutyryl-CoA dehydrogenase
+17.8.1	hormone metabolism.salicylic acid.synthesis-degradation
+35.1	not assigned.no ontology
+35.1.19	not assigned.no ontology.C2 domain-containing protein
+35.1.17	not assigned.no ontology.transcription factor jumonji (jmjC) domain-containing protein
+35.1.16	not assigned.no ontology.speckle-type POZ protein-related
+35.1.14	not assigned.no ontology.S RNA-binding domain-containing protein
+28.1.1	DNA.synthesis/chromatin structure.retrotransposon/transposase
+1.2.1004	PS.photorepiration.serine
+28.1.3	DNA.synthesis/chromatin structure.histone
+1.2.1005	PS.photorepiration.glyoxylate
+13.1.1.3.11	amino acid metabolism.synthesis.central amino acid metabolism.alanine.alanine-glyoxylate aminotransferase
+1.2.1002	PS.photorepiration.glycolate
+1.2.1003	PS.photorepiration.glycine
+1.2.1001	PS.photorespiration.glycerate
+23.4.10	nucleotide metabolism.phosphotransfer and pyrophosphatases.nucleoside diphosphate kinase
+16.10	secondary metabolism.simple phenols
+10.2.1	cell wall.cellulose synthesis.cellulose synthase
+20.2.99	stress.abiotic.unspecified
+17.5.1.2	hormone metabolism.ethylene.synthesis-degradation.1-aminocyclopropane-1-carboxylate oxidase
+17.6.1	hormone metabolism.gibberelin.synthesis-degradation
+17.6.2	hormone metabolism.gibberelin.signal transduction
+17.5.1.1	hormone metabolism.ethylene.synthesis-degradation.1-aminocyclopropane-1-carboxylate synthase
+17.4.2	hormone metabolism.cytokinin.signal transduction
+17.4.1	hormone metabolism.cytokinin.synthesis-degradation
+17.2.1	hormone metabolism.auxin.synthesis-degradation
+17.2.2	hormone metabolism.auxin.signal transduction
+17.2.3	hormone metabolism.auxin.induced-regulated-responsive-activated
+11.1017	lipid metabolism
+11.1016	lipid metabolism
+11.1015	lipid metabolism
+11.1014	lipid metabolism
+11.1013	lipid metabolism
+11.1012	lipid metabolism
+11.1011	lipid metabolism
+11.1010	lipid metabolism
+11.1019	lipid metabolism
+11.1018	lipid metabolism
+28.1	DNA.synthesis/chromatin structure
+28.2	DNA.repair
+10	cell wall
+13	amino acid metabolism
+15	metal handling
+17	hormone metabolism
+19	tetrapyrrole synthesis
+18	Co-factor and vitamine metabolism
+29.2.1.1.1.2.18	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L18
+29.2.1.1.1.2.19	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L19
+17.7.1.4	hormone metabolism.jasmonate.synthesis-degradation.allene oxidase cyclase
+17.7.1.5	hormone metabolism.jasmonate.synthesis-degradation.12-Oxo-PDA-reductase
+29.2.1.1.1.2.14	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L14
+29.2.1.1.1.2.15	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L15
+29.2.1.1.1.2.12	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L12
+17.7.1.1	hormone metabolism.jasmonate.synthesis-degradation.lipases
+17.7.1.2	hormone metabolism.jasmonate.synthesis-degradation.lipoxygenase
+29.2.1.1.1.2.11	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L11
+13.2.3.1.1	amino acid metabolism.degradation.aspartate family.asparagine.L-asparaginase
+3.99.1010	minor CHO metabolism.misc
+1.1.4.8	PS.lightreaction.ATP synthase.subunit B (ATPF)
+3.99.1011	minor CHO metabolism.misc
+1.1.4.5	PS.lightreaction.ATP synthase.subunit C
+1.1.4.4	PS.lightreaction.ATP synthase.gamma chain
+1.1.4.7	PS.lightreaction.ATP synthase.delta chain
+1.1.4.1	PS.lightreaction.ATP synthase.alpha subunit
+3.99.1012	minor CHO metabolism.misc
+1.1.4.3	PS.lightreaction.ATP synthase.epsilon chain
+1.1.4.2	PS.lightreaction.ATP synthase.beta subunit
+29.2.1.1.1.2.2	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L2
+3.99.1017	minor CHO metabolism.misc
+26.14	misc.oxygenases
+26.16	misc.myrosinases-lectin-jacalin
+26.17	misc.dynamin
+26.10	misc.cytochrome P450
+13.1.2.2.1	amino acid metabolism.synthesis.glutamate family.proline.delta 1-pyrroline-5-carboxylate synthetase
+26.12	misc.peroxidases
+26.13	misc.acid and other phosphatases
+26.18	misc.invertase/pectin methylesterase inhibitor family protein
+26.19	misc.plastocyanin-like
+16.5.1.1.1.13	secondary metabolism.sulfur-containing.glucosinolates.synthesis.aliphatic.2-oxoglutarate-dependent dioxygenase
+16.5.1.1.1.12	secondary metabolism.sulfur-containing.glucosinolates.synthesis.aliphatic.benzoate-CoA ligase
+16.5.1.1.1.11	secondary metabolism.sulfur-containing.glucosinolates.synthesis.aliphatic.glucosinolate 2-oxoglutarate-dependent dioxygenase (AOP)
+16.5.1.1.1.10	secondary metabolism.sulfur-containing.glucosinolates.synthesis.aliphatic.flavin-containing monooxygenase
+34.18	transport.unspecified anions
+34.13	transport.peptides and oligopeptides
+34.12	transport.metal
+34.11	transport.NDP-sugars at the ER
+34.10	transport.nucleotides
+34.17	transport.peroxisomes
+34.16	transport.ABC transporters and multidrug resistance systems
+34.15	transport.potassium
+34.14	transport.unspecified cations
+17.3.1.2.2	hormone metabolism.brassinosteroid.synthesis-degradation.sterols.SMT2
+17.3.1.2.3	hormone metabolism.brassinosteroid.synthesis-degradation.sterols.CYP51
+17.3.1.2.6	hormone metabolism.brassinosteroid.synthesis-degradation.sterols.DWF7
+11.9.2.1	lipid metabolism.lipid degradation.lipases.triacylglycerol lipase
+11.8.1013	lipid metabolism.exotics (steroids, squalene etc)
+11.8.1012	lipid metabolism.exotics (steroids, squalene etc)
+11.8.1011	lipid metabolism.exotics (steroids, squalene etc)
+17.3.1.2.7	hormone metabolism.brassinosteroid.synthesis-degradation.sterols.DWF5
+17.3.1.2.4	hormone metabolism.brassinosteroid.synthesis-degradation.sterols.FACKEL
+17.3.1.2.5	hormone metabolism.brassinosteroid.synthesis-degradation.sterols.HYD1
+3.1.1001	minor CHO metabolism.raffinose family
+3.1.1002	minor CHO metabolism.raffinose family
+29.2.1.1.1.1.530	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.30S subunit.S30A
+13.1.5.2.1001	amino acid metabolism.synthesis.serine-glycine-cysteine group.glycine
+29.2.2.50	protein.synthesis.misc ribosomal protein.BRIX
+13.1.4.1.4	amino acid metabolism.synthesis.branched chain group.common.branched-chain amino acid aminotransferase
+13.1.4.1.2	amino acid metabolism.synthesis.branched chain group.common.ketol-acid reductoisomerase
+13.1.4.1.1	amino acid metabolism.synthesis.branched chain group.common.acetolactate synthase
+29.3.3	protein.targeting.chloroplast
+27.3.12	RNA.regulation of transcription.C3H zinc finger family
+27.3.13	RNA.regulation of transcription.CCAAT box binding factor family, DR1
+27.3.10	RNA.regulation of transcription.C2C2(Zn) YABBY family
+27.3.11	RNA.regulation of transcription.C2H2 zinc finger family
+27.3.16	RNA.regulation of transcription.CCAAT box binding factor family, HAP5
+27.3.17	RNA.regulation of transcription.CPP(Zn),CPP1-related transcription factor family
+27.3.14	RNA.regulation of transcription.CCAAT box binding factor family, HAP2
+27.3.15	RNA.regulation of transcription.CCAAT box binding factor family, HAP3
+27.3.18	RNA.regulation of transcription.E2F/DP transcription factor family
+27.3.19	RNA.regulation of transcription.EIN3-like(EIL) transcription factor family
+21.5.2	redox.peroxiredoxin.PER1
+11.9.4.9	lipid metabolism.lipid degradation.beta-oxidation.multifunctional
+11.9.4.5	lipid metabolism.lipid degradation.beta-oxidation.acyl-CoA thioesterase
+11.9.4.4	lipid metabolism.lipid degradation.beta-oxidation.hydroxybutyryl CoA DH
+11.9.4.3	lipid metabolism.lipid degradation.beta-oxidation.enoyl CoA hydratase
+11.9.4.2	lipid metabolism.lipid degradation.beta-oxidation.acyl CoA DH
+13.2.5.1.1001	amino acid metabolism.degradation.serine-glycine-cysteine group.serine
+29.5.11.4.2	protein.degradation.ubiquitin.E3.RING
+29.5.11.4.1	protein.degradation.ubiquitin.E3.HECT
+29.5.11.4.6	protein.degradation.ubiquitin.E3.DCX
+29.5.11.4.4	protein.degradation.ubiquitin.E3.APC
+19.32	tetrapyrrole synthesis.sirohydrochlorin ferrochelatase
+20.1.7.6.1	stress.biotic.PR-proteins.proteinase inhibitors.trypsin inhibitor
+1.1.4	PS.lightreaction.ATP synthase
+26.4.1	misc.beta 1,3 glucan hydrolases.glucan endo-1,3-beta-glucosidase
+16.1	secondary metabolism.isoprenoids
+34.19.99	transport.Major Intrinsic Proteins.unspecified
+8.2.9	TCA / org. transformation.other organic acid transformaitons.cyt MDH
+8.2.4	TCA / org. transformation.other organic acid transformaitons.IDH
+8.2.3	TCA / org. transformation.other organic acid transformaitons.aconitase
+2.2.1.1	major CHO metabolism.degradation.sucrose.fructokinase
+2.2.1.4	major CHO metabolism.degradation.sucrose.hexokinase
+2.2.1.5	major CHO metabolism.degradation.sucrose.Susy
+11.1004	lipid metabolism
+11.1005	lipid metabolism
+11.1006	lipid metabolism
+11.1007	lipid metabolism
+11.1001	lipid metabolism
+11.1002	lipid metabolism
+11.1003	lipid metabolism
+11.1008	lipid metabolism
+11.1009	lipid metabolism
+17.4.1.1001	hormone metabolism.cytokinin.synthesis-degradation
+17.4.1.1003	hormone metabolism.cytokinin.synthesis-degradation
+17.4.1.1002	hormone metabolism.cytokinin.synthesis-degradation
+29.2.1.1.1.2.4	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L4
+11.8	lipid metabolism.exotics (steroids, squalene etc)
+11.9	lipid metabolism.lipid degradation
+29.2.1.1.1.2.5	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L5
+11.4	lipid metabolism.TAG synthesis
+11.6	lipid metabolism.lipid transfer proteins etc
+11.7	lipid metabolism.unassigned
+29.2.1.1.1.2.6	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L6
+11.3	lipid metabolism.Phospholipid synthesis
+17.2	hormone metabolism.auxin
+27.3.64	RNA.regulation of transcription.PHOR1
+10.4.1.1	cell wall.pectin synthesis.homogalacturonan.Galacturonic Acid Trnasferase
+29.2.1.1.1.2.1	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L1
+18.1003	Co-factor and vitamine metabolism
+18.1002	Co-factor and vitamine metabolism
+12.2.1.2	N-metabolism.ammonia metabolism.glutamate synthase.NADH dependent
+18.1007	Co-factor and vitamine metabolism
+18.1006	Co-factor and vitamine metabolism
+18.1005	Co-factor and vitamine metabolism
+18.1004	Co-factor and vitamine metabolism
+18.1009	Co-factor and vitamine metabolism.lumichrome
+29.2.1.1.1.2.3	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L3
+22.2.1	polyamine metabolism.degradation.polyamin oxidase
+9.2.3	mitochondrial electron transport / ATP synthesis.NADH-DH.type II.mitochondrial
+17.7.1.10	hormone metabolism.jasmonate.synthesis-degradation.jasmonate-O-methyltransferase
+9.2.1	mitochondrial electron transport / ATP synthesis.NADH-DH.type II.internal matrix
+16.99.1008	secondary metabolism.unspecified
+16.99.1009	secondary metabolism.unspecified
+16.99.1003	secondary metabolism.unspecified
+16.99.1001	secondary metabolism.unspecified
+16.99.1006	secondary metabolism.unspecified
+16.99.1007	secondary metabolism.unspecified
+16.99.1004	secondary metabolism.unspecified
+16.99.1005	secondary metabolism.unspecified
+18.3.2	Co-factor and vitamine metabolism.riboflavin.riboflavin synthase
+18.3.1	Co-factor and vitamine metabolism.riboflavin.GTP cyclohydrolase II
+13.2.1.2	amino acid metabolism.degradation.central amino acid metabolism.aspartate
+29.2.1.1.3.2.14	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.50S subunit.L14
+29.2.1.1.3.2.15	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.50S subunit.L15
+29.2.1.1.3.2.17	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.50S subunit.L17
+29.2.1.1.3.2.10	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.50S subunit.L10
+29.2.1.1.3.2.12	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.50S subunit.L12
+29.2.1.1.3.2.18	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.50S subunit.L18
+29.2.1.1.3.2.19	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.50S subunit.L19
+17.2.1.1003	hormone metabolism.auxin
+17.2.1.1002	hormone metabolism.auxin
+11.1.12	lipid metabolism.FA synthesis and FA elongation.ACP protein
+17.2.1.1007	hormone metabolism.auxin
+17.2.1.1006	hormone metabolism.auxin
+17.2.1.1005	hormone metabolism.auxin
+17.2.1.1004	hormone metabolism.auxin
+11.8.1001	lipid metabolism.exotics (steroids, squalene etc)
+11.8.1002	lipid metabolism.exotics (steroids, squalene etc)
+11.8.1003	lipid metabolism.exotics (steroids, squalene etc)
+3.1.1.2	minor CHO metabolism.raffinose family.galactinol synthases.putative
+11.8.1005	lipid metabolism.exotics (steroids, squalene etc)
+11.8.1006	lipid metabolism.exotics (steroids, squalene etc)
+3.1.1.1	minor CHO metabolism.raffinose family.galactinol synthases.known
+11.8.1008	lipid metabolism.exotics (steroids, squalene etc)
+11.8.1009	lipid metabolism.exotics (steroids, squalene etc)
+22.1.4	polyamine metabolism.synthesis.agmatine deiminase
+29.5.9	protein.degradation.AAA type
+29.5.1	protein.degradation.subtilases
+29.5.2	protein.degradation.autophagy
+29.5.3	protein.degradation.cysteine protease
+29.5.4	protein.degradation.aspartate protease
+29.5.5	protein.degradation.serine protease
+29.5.7	protein.degradation.metalloprotease
+29.7.8	protein.glycosylation.alpha-1,6-mannosyl-glycoprotein-beta-1,2-N-acetylglucosaminyltransferase(GnTII)
+29.7.9	protein.glycosylation.beta-1,2-xylosyltransferase(beta-1,2-XylT)
+29.7.3	protein.glycosylation.mannosyl-oligosaccharide alpha-1,2-mannosidase
+13.2.3.2.1001	amino acid metabolism.degradation.aspartate family.threonine
+29.7.7	protein.glycosylation.mannosyl-oligosaccharide-1,3-1,6-alpha-mannosidase(GMII)
+29.7.5	protein.glycosylation.alpha-1,3-mannosyl-glycoprotein-beta-1,2-N-acetylglucosaminyltransferase(GnTI)
+18.1.1	Co-factor and vitamine metabolism.molybdenum cofactor.gephyrin
+13.2.3.5	amino acid metabolism.degradation.aspartate family.lysine
+13.2.3.4	amino acid metabolism.degradation.aspartate family.methionine
+20.1.3.1	stress.biotic.signalling.MLO-like
+22.1.2	polyamine metabolism.synthesis.SAM decarboxylase
+3.4.2	minor CHO metabolism.myo-inositol.InsP-Kinases
+3.4.3	minor CHO metabolism.myo-inositol.InsP Synthases
+10.6.1	cell wall.degradation.cellulases and beta -1,4-glucanases
+3.4.1	minor CHO metabolism.myo-inositol.poly-phosphatases
+3.4.4	minor CHO metabolism.myo-inositol.myo inositol oxygenases
+3.4.5	minor CHO metabolism.myo-inositol.inositol phosphatase
+20.1.7.6	stress.biotic.PR-proteins.proteinase inhibitors
+33.1	development.storage proteins
+33.2	development.late embryogenesis abundant
+33.3	development.squamosa promoter binding like (SPL)
+30.2.24	signalling.receptor kinases.S-locus glycoprotein like
+30.2.25	signalling.receptor kinases.wall associated kinase
+30.2.26	signalling.receptor kinases.crinkly like
+30.2.27	signalling.receptor kinases.C-Lectin
+30.2.20	signalling.receptor kinases.wheat LRK10 like
+30.2.21	signalling.receptor kinases.lysine motif
+30.2.22	signalling.receptor kinases.proline extensin like
+30.2.23	signalling.receptor kinases.RKF3 like
+13.1.5.3.1	amino acid metabolism.synthesis.serine-glycine-cysteine group.cysteine.OASTL
+13.1.5.3.2	amino acid metabolism.synthesis.serine-glycine-cysteine group.cysteine.SAT
+1.2.4.4	PS.photorespiration.glycine cleavage.H protein
+1.2.4.2	PS.photorespiration.glycine cleavage.T subunit
+1.2.4.1	PS.photorespiration.glycine cleavage.P subunit
+13.1.5.1.3	amino acid metabolism.synthesis.serine-glycine-cysteine group.serine.phosphoserine phosphatase
+13.1.5.1.2	amino acid metabolism.synthesis.serine-glycine-cysteine group.serine.phosphoserine aminotransferase
+13.1.5.1.1	amino acid metabolism.synthesis.serine-glycine-cysteine group.serine.phosphoglycerate dehydrogenase
+31.3.1	cell.cycle.peptidylprolyl isomerase
+21.99	redox.misc
+13.1.3.2.1	amino acid metabolism.synthesis.aspartate family.threonine.threonine synthase
+11.10.1002	lipid metabolism.galactolipid synthesis
+11.10.1001	lipid metabolism.galactolipid synthesis
+31.4	cell.vesicle transport
+31.2	cell.division
+31.3	cell.cycle
+31.1	cell.organisation
+33.30.1	development.multitarget.target of rapamycin
+16.4.1	secondary metabolism.N misc.alkaloid-like
+29.2.1.2.2.518	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L18A
+29.5.11.4.3.1	protein.degradation.ubiquitin.E3.SCF.SKP
+29.5.11.4.3.2	protein.degradation.ubiquitin.E3.SCF.FBOX
+29.5.11.4.3.3	protein.degradation.ubiquitin.E3.SCF.cullin
+29.5.11.4.3.4	protein.degradation.ubiquitin.E3.SCF.RBX
+29.2.1.2.2.513	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L13A
+29.2.1.2.2.510	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L10A
+29.5.11.4.5.2	protein.degradation.ubiquitin.E3.BTB/POZ Cullin3.BTB/POZ
+29.5.11.4.5.1	protein.degradation.ubiquitin.E3.BTB/POZ Cullin3.Cullin3
+11.1031	lipid metabolism
+11.1030	lipid metabolism
+11.1033	lipid metabolism
+11.1032	lipid metabolism
+11.1035	lipid metabolism
+11.1034	lipid metabolism
+11.1037	lipid metabolism
+11.1036	lipid metabolism
+11.1039	lipid metabolism
+11.1038	lipid metabolism
+10.8.1	cell wall.pectin*esterases.PME
+17.1.1.1.12	hormone metabolism.abscisic acid.synthesis-degradation.synthesis.abscisic aldehyde oxidase
+17.1.1.1.11	hormone metabolism.abscisic acid.synthesis-degradation.synthesis.short chain alcohol dehydrogenmase (ABA2)
+17.1.1.1.10	hormone metabolism.abscisic acid.synthesis-degradation.synthesis.9-cis-epoxycarotenoid dioxygenase
+35.1.1001	not assigned.no ontology
+35.1.1003	not assigned.no ontology
+35.1.1002	not assigned.no ontology
+16.5.99.1	secondary metabolism.sulfur-containing.misc.alliinase
+35.1.1004	not assigned.no ontology
+35.1.1007	not assigned.no ontology
+35.1.1006	not assigned.no ontology
+35.1.1009	not assigned.no ontology
+35.1.1008	not assigned.no ontology
+3.8.2	minor CHO metabolism.galactose.alpha-galactosidases
+3.8.1	minor CHO metabolism.galactose.galactokinases
+16.4.2.1	secondary metabolism.N misc.betaine.betaine-aldehyde dehydrogenase
+16.2.1	secondary metabolism.phenylpropanoids.lignin biosynthesis
+16.2.1.4	secondary metabolism.phenylpropanoids.lignin biosynthesis.HCT
+16.99.1018	secondary metabolism.unspecified
+16.2.1.7	secondary metabolism.phenylpropanoids.lignin biosynthesis.CCR1
+16.99.1011	secondary metabolism.unspecified
+16.99.1010	secondary metabolism.unspecified
+16.99.1013	secondary metabolism.unspecified
+16.99.1012	secondary metabolism.unspecified
+16.99.1014	secondary metabolism.unspecified
+16.99.1017	secondary metabolism.unspecified
+16.99.1016	secondary metabolism.unspecified
+16.1.4.4	secondary metabolism.isoprenoids.carotenoids.lycopene epsilon cyclase
+16.1.4.5	secondary metabolism.isoprenoids.carotenoids.lycopene beta cyclase
+16.1.4.2	secondary metabolism.isoprenoids.carotenoids.phytoene dehydrogenase
+16.1.4.3	secondary metabolism.isoprenoids.carotenoids.zeta-carotene desaturase
+16.1.4.1	secondary metabolism.isoprenoids.carotenoids.phytoene synthase
+29.2.1.1.1.1.83	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.30S subunit.PSRP3
+16.1.2.8	secondary metabolism.isoprenoids.mevalonate pathway.geranyl diphosphate synthase
+29.1.40	protein.aa activation.bifunctional aminoacyl-tRNA synthetase
+10.1.12.1	cell wall.precursor synthesis.KDO pathway.arabinose-5-phosphate isomerase
+10.1.12.2	cell wall.precursor synthesis.KDO pathway.KDO-8-Phosphate Synthase
+10.1.12.4	cell wall.precursor synthesis.KDO pathway.CMP-KDO Synthetase
+29.2.1.1.3.2.20	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.50S subunit.L20
+29.2.1.1.3.2.28	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.50S subunit.L28
+4.1.4	glycolysis.cytosolic branch.glucose-6-phosphate isomerase
+4.1.5	glycolysis.cytosolic branch.phosphofructokinase (PFK)
+4.1.6	glycolysis.cytosolic branch.pyrophosphate-fructose-6-P phosphotransferase
+4.1.7	glycolysis.cytosolic branch.fructose-2,6-bisphosphatase (Fru2,6BisPase)
+34.1.2	transport.p- and v-ATPases.H+-exporting ATPase
+4.1.2	glycolysis.cytosolic branch.UGPase
+4.1.3	glycolysis.cytosolic branch.phosphoglucomutase (PGM)
+11.8.1010	lipid metabolism.exotics (steroids, squalene etc)
+4.1.8	glycolysis.cytosolic branch.triosephosphate isomerase (TPI)
+4.1.9	glycolysis.cytosolic branch.glyceraldehyde 3-phosphate dehydrogenase (GAP-DH)
+13.1.6.5	amino acid metabolism.synthesis.aromatic aa.tryptophan
+29.5.11.4.99	protein.degradation.ubiquitin.E3.unspecified
+13.1.6.2	amino acid metabolism.synthesis.aromatic aa.phenylalanine and tyrosine
+13.1.2.3	amino acid metabolism.synthesis.glutamate family.arginine
+11.9.2.2	lipid metabolism.lipid degradation.lipases.acylglycerol lipase
+29.2.1.1.1.1.9	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.30S subunit.S9
+29.2.1.1.1.1.8	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.30S subunit.S8
+29.2.1.1.1.1.3	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.30S subunit.S3
+29.2.1.1.1.1.2	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.30S subunit.S2
+12.2.1003	N-metabolism.ammonia metabolism
+29.2.1.1.1.1.6	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.30S subunit.S6
+12.2.1001	N-metabolism.ammonia metabolism
+29.2.1.1.1.1.4	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.30S subunit.S4
+34.19.4	transport.Major Intrinsic Proteins.SIP
+34.19.2	transport.Major Intrinsic Proteins.TIP
+34.19.3	transport.Major Intrinsic Proteins.NIP
+27.3.39	RNA.regulation of transcription.AtSR Transcription Factor family
+6	gluconeogenese/ glyoxylate cycle
+30.2.19	signalling.receptor kinases.legume-lectin
+30.2.18	signalling.receptor kinases.extensin
+35.1.25	not assigned.no ontology.paired amphipathic helix repeat-containing protein
+35.1.22	not assigned.no ontology.late embryogenesis abundant domain-containing protein
+35.1.23	not assigned.no ontology.aconitase C-terminal domain-containing protein
+35.1.20	not assigned.no ontology.formin homology 2 domain-containing protein
+35.1.21	not assigned.no ontology.epsin N-terminal homology (ENTH) domain-containing protein
+30.2.11	signalling.receptor kinases.leucine rich repeat XI
+30.2.10	signalling.receptor kinases.leucine rich repeat X
+30.2.13	signalling.receptor kinases.leucine rich repeat XIII
+30.2.12	signalling.receptor kinases.leucine rich repeat XII
+30.2.15	signalling.receptor kinases.thaumatin like
+30.2.14	signalling.receptor kinases.leucine rich repeat XIV
+30.2.17	signalling.receptor kinases.DUF 26
+16.8.1.1001	secondary metabolism.flavonoids.anthocyanins
+16.1.1.1014	secondary metabolism.isoprenoids.non-mevalonate pathway
+16.1.1.1012	secondary metabolism.isoprenoids.non-mevalonate pathway
+16.1.1.1013	secondary metabolism.isoprenoids.non-mevalonate pathway
+16.1.1.1010	secondary metabolism.isoprenoids.mevalonate pathway
+16.1.1.1011	secondary metabolism.isoprenoids.non-mevalonate pathway
+34.1.1.6	transport.p- and v-ATPases.H+-transporting two-sector ATPase.subunit H
+34.1.1.4	transport.p- and v-ATPases.H+-transporting two-sector ATPase.subunit E
+34.1.1.3	transport.p- and v-ATPases.H+-transporting two-sector ATPase.subunit D
+34.1.1.2	transport.p- and v-ATPases.H+-transporting two-sector ATPase.subunit C
+34.1.1.1	transport.p- and v-ATPases.H+-transporting two-sector ATPase.subunit B
+16.5.1.1.1.3	secondary metabolism.sulfur-containing.glucosinolates.synthesis.aliphatic.methylthioalkylmalate isomerase large subunit (MAM-IL)
+16.5.1.1.1.2	secondary metabolism.sulfur-containing.glucosinolates.synthesis.aliphatic.methylthioalkylmalate synthase (MAM)
+16.5.1.1.1.1	secondary metabolism.sulfur-containing.glucosinolates.synthesis.aliphatic.branched-chain amino acid aminotransferase  (BCAT/MAAT)
+16.5.1.1.1.7	secondary metabolism.sulfur-containing.glucosinolates.synthesis.aliphatic.CYP83A1 phenylacetaldoxime monooxygenase
+16.5.1.1.1.6	secondary metabolism.sulfur-containing.glucosinolates.synthesis.aliphatic.CYP79F1/F2 monooxygenase
+16.5.1.1.1.5	secondary metabolism.sulfur-containing.glucosinolates.synthesis.aliphatic.methylthioalkylmalate dehydrogenase (MAM-D)
+16.5.1.1.1.4	secondary metabolism.sulfur-containing.glucosinolates.synthesis.aliphatic.methylthioalkylmalate isomerase small subunit (MAM-IS)
+16.5.1.1.1.9	secondary metabolism.sulfur-containing.glucosinolates.synthesis.aliphatic.sulfotransferase
+16.5.1.1.1.8	secondary metabolism.sulfur-containing.glucosinolates.synthesis.aliphatic.UDP-glycosyltransferase
+1.3.1005	PS.calvin cyle
+1.3.1004	PS.calvin cyle
+1.3.1007	PS.calvin cyle
+1.3.1006	PS.calvin cyle
+1.3.1001	PS.calvin cyle.ribulose-1,5-bisP
+1.3.1003	PS.calvin cyle
+1.3.1002	PS.calvin cyle
+23.1.1.1010	nucleotide metabolism.synthesis.pyrimidines
+2.1.2.1004	major CHO metabolism.synthesis.starch
+5.1	fermentation.LDH
+5.2	fermentation.PDC
+5.3	fermentation.ADH
+2.1.2.1001	major CHO metabolism.synthesis.starch
+2.1.2.1002	major CHO metabolism.synthesis.starch
+2.1.2.1003	major CHO metabolism.synthesis.starch
+29.5.11	protein.degradation.ubiquitin
+19.13	tetrapyrrole synthesis.divinyl chlorophyllide-a 8-vinyl-reductase
+11.2.1001	lipid metabolism.FA desaturation
+29.1.21	protein.aa activation.histidine-tRNA ligase
+19.11	tetrapyrrole synthesis.magnesium protoporphyrin IX methyltransferase
+3.1.2.1	minor CHO metabolism.raffinose family.raffinose synthases.known
+3.1.2.2	minor CHO metabolism.raffinose family.raffinose synthases.putative
+17.3.1.2.8	hormone metabolism.brassinosteroid.synthesis-degradation.sterols.DWF1
+11.1028	lipid metabolism
+11.1029	lipid metabolism
+11.1026	lipid metabolism
+11.1027	lipid metabolism
+11.1024	lipid metabolism
+11.1025	lipid metabolism
+11.1022	lipid metabolism
+11.1023	lipid metabolism
+11.1020	lipid metabolism
+11.1021	lipid metabolism
+35.1.1012	not assigned.no ontology
+35.1.1013	not assigned.no ontology
+35.1.1010	not assigned.no ontology
+35.1.1011	not assigned.no ontology
+35.1.1016	not assigned.no ontology
+35.1.1017	not assigned.no ontology
+35.1.1014	not assigned.no ontology
+35.1.1015	not assigned.no ontology
+35.1.1018	not assigned.no ontology
+35.1.1019	not assigned.no ontology
+26.11.1	misc.alcohol dehydrogenases
+24	Biodegradation of Xenobiotics
+25	C1-metabolism
+20	stress
+22	polyamine metabolism
+23	nucleotide metabolism
+29.2.99	protein.synthesis.misc
+13.1.6.3.1002	amino acid metabolism.synthesis.aromatic aa.phenylalanine
+13.1.6.3.1003	amino acid metabolism.synthesis.aromatic aa.phenylalanine
+13.1.6.3.1001	amino acid metabolism.synthesis.aromatic aa.phenylalanine
+31.99	cell.unspecified
+23.4.4	nucleotide metabolism.phosphotransfer and pyrophosphatases.thymidylate kinase
+23.4.3	nucleotide metabolism.phosphotransfer and pyrophosphatases.uridylate kinase
+23.4.2	nucleotide metabolism.phosphotransfer and pyrophosphatases.guanylate kinase
+23.4.1	nucleotide metabolism.phosphotransfer and pyrophosphatases.adenylate kinase
+11.8.10	lipid metabolism.exotics (steroids, squalene etc).phosphatidylcholinesterol O-acyltransferase
+2.1.1.3	major CHO metabolism.synthesis.sucrose.FBPase
+2.1.1.2	major CHO metabolism.synthesis.sucrose.SPP
+2.1.1.1	major CHO metabolism.synthesis.sucrose.SPS
+12.2.1.1	N-metabolism.ammonia metabolism.glutamate synthase.ferredoxin dependent
+18.1001	Co-factor and vitamine metabolism
+27.1.21	RNA.processing.siRNA methyltransferase
+27.1.20	RNA.processing.degradation dicer
+20.1	stress.biotic
+20.2	stress.abiotic
+7.2.3	OPP.non-reductive PP.ribulose-phosphate 3-epimerase
+18.1008	Co-factor and vitamine metabolism
+29.2.1.1.3.2.36	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.50S subunit.L36
+29.2.1.1.3.2.35	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.50S subunit.L35
+29.2.1.1.3.2.32	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.50S subunit.L32
+29.2.1.1.3.2.33	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.50S subunit.L33
+29.2.1.1.3.2.30	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.50S subunit.L30
+13.1.6.4.1001	amino acid metabolism.synthesis.aromatic aa.tyrosine
+17.1.1.1.1	hormone metabolism.abscisic acid.synthesis-degradation.synthesis.zeaxanthin epoxidase
+16.1.2.1013	secondary metabolism.isoprenoids.mevalonate pathway
+16.1.2.1012	secondary metabolism.isoprenoids.mevalonate pathway
+16.1.2.1011	secondary metabolism.isoprenoids.mevalonate pathway
+16.1.2.1010	secondary metabolism.isoprenoids.mevalonate pathway
+16.1.2.1014	secondary metabolism.isoprenoids.mevalonate pathway
+16.2.1.1011	secondary metabolism.phenylpropanoids.lignin biosynthesis
+16.2.1.1010	secondary metabolism.phenylpropanoids.lignin biosynthesis
+16.2.99.1031	secondary metabolism.phenylpropanoids.unspecified
+13.99	amino acid metabolism.misc
+13.1.7.1001	amino acid metabolism.synthesis.histidine
+13.1.7.1002	amino acid metabolism.synthesis.histidine
+13.1.3.6.1.10	amino acid metabolism.synthesis.aspartate family.misc.homoserine.bifunctional aspartate kinase/homoserine dehydrogenase
+21.1007	redox regulation
+21.1006	redox regulation
+21.1005	redox regulation
+21.1004	redox regulation
+21.1003	redox regulation
+21.1002	redox regulation
+21.1001	redox regulation
+10.3.1.1	cell wall.hemicellulose synthesis.xyloglucan.XXXG galactose Transferase
+21.1009	redox regulation
+21.1008	redox regulation
+1.1.2.2	PS.lightreaction.photosystem I.PSI polypeptide subunits
+1.1.2.1	PS.lightreaction.photosystem I.LHC-I
+16.5.1.4.1	secondary metabolism.sulfur-containing.glucosinolates.transport.aliphatic
+13.1.4.5.1	amino acid metabolism.synthesis.branched chain group.isoleucine specific.threonine ammonia-lyase
+16.8.2.1	secondary metabolism.flavonoids.chalcones.naringenin-chalcone synthase
+16.8.2.2	secondary metabolism.flavonoids.chalcones.chalcone isomerase
+23.1.1.10	nucleotide metabolism.synthesis.pyrimidine.CTP synthetase
+13.1.2.3.1004	amino acid metabolism.synthesis.glutamate family.arginine
+13.1.2.3.1002	amino acid metabolism.synthesis.glutamate family.arginine
+29.2.1.1.2.2.2	protein.synthesis.ribosomal protein.prokaryotic.mitochondrion.50S subunit.L2
+13.1.2.3.1001	amino acid metabolism.synthesis.glutamate family.arginine
+1.2.6	PS.photorespiration.hydroxypyruvate reductase
+1.2.7	PS.photorespiration.glycerate kinase
+1.2.5	PS.photorespiration.serine hydroxymethyltransferase
+1.2.2	PS.photorespiration.glycolate oxydase
+1.2.3	PS.photorespiration.aminotransferases peroxisomal
+1.2.1	PS.photorespiration.phosphoglycolate phosphatase
+17.7.1.1001	hormone metabolism.jasmonate.synthesis-degradation
+17.7.1.1002	hormone metabolism.jasmonate.synthesis-degradation
+7.1.3	OPP.oxidative PP.6-phosphogluconate dehydrogenase
+7.1.2	OPP.oxidative PP.6-phosphogluconolactonase
+7.1.1	OPP.oxidative PP.G6PD
+4.2.3	glycolysis.plastid branch.phosphoglucomutase (PGM)
+4.2.6	glycolysis.plastid branch.pyrophosphate-fructose-6-P phosphotransferase
+4.2.5	glycolysis.plastid branch.phosphofructokinase (PFK)
+4.2.4	glycolysis.plastid branch.glucose-6-phosphate isomerase
+29.3.2	protein.targeting.mitochondria
+11.3.10	lipid metabolism.Phospholipid synthesis.(S)-coclaurine-N-methyltransferase
+29.2.1.2.2.535	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L35A
+16.4.1.1007	secondary metabolism.N misc.alkaloid-like
+29.2.1.2.2.537	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L37A
+29.2.1.2.2.29	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L29
+10.4.3.6	cell wall.pectin synthesis.rhamnogalacturonan II.Xylose  Transferase with Fucose Acceptor
+20.1.7.12	stress.biotic.PR-proteins.plant defensins
+35.1.1025	not assigned.no ontology.Hydroxyurea
+35.1.1024	not assigned.no ontology.Kojic acid
+23.3.1.1	nucleotide metabolism.salvage.phosphoribosyltransferases.aprt
+35.1.1022	not assigned.no ontology
+23.3.1.3	nucleotide metabolism.salvage.phosphoribosyltransferases.upp
+23.3.1.2	nucleotide metabolism.salvage.phosphoribosyltransferases.hgprt
+16.5.1.1.4.2	secondary metabolism.sulfur-containing.glucosinolates.synthesis.shared.alkylthiohydroximate C-S lyase
+16.5.1.1.4.3	secondary metabolism.sulfur-containing.glucosinolates.synthesis.shared.UDP-glycosyltransferase
+35.1.999	not assigned.no ontology.formerly annotated based on articles which have been retracted
+16.5.1.1.4.1	secondary metabolism.sulfur-containing.glucosinolates.synthesis.shared.CYP83B1 phenylacetaldoxime monooxygenase
+10.1.21	cell wall.precursor synthesis.phosphomannomutase
+10.1.20	cell wall.precursor synthesis.phosphomannose isomerase
+30.2.8.1	signalling.receptor kinases.leucine rich repeat VIII-1
+30.2.8.2	signalling.receptor kinases.leucine rich repeat VIII-2
+20.2.1001	stress.abiotic
+2.2.2.1001	major CHO metabolism.degradation.starch
+2.2.2.1003	major CHO metabolism.degradation.starch
+2.2.2.1002	major CHO metabolism.degradation.starch
+2.2.2.1004	major CHO metabolism.degradation.starch
+20.1.5	stress.biotic.regulation of transcription
+20.1.4	stress.biotic.kinases
+29.2.1.1.3.2.510	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.50S subunit.L10A
+20.1.3	stress.biotic.signalling
+16.20.1006	secondary metabolism.amino acid derivatives
+10.2.1001	cell wall degradation
+16.20.1004	secondary metabolism.amino acid derivatives
+13.1.3.4.11	amino acid metabolism.synthesis.aspartate family.methionine.S-adenosylmethionine synthetase
+16.20.1002	secondary metabolism.amino acid derivatives
+16.20.1003	secondary metabolism.amino acid derivatives
+16.20.1001	secondary metabolism.amino acid derivatives
+18.3	Co-factor and vitamine metabolism.riboflavin
+16.5.1.3.1.1	secondary metabolism.sulfur-containing.glucosinolates.degradation.myrosinase.TGG
+18.2	Co-factor and vitamine metabolism.thiamine
+8.2.11	TCA / org. transformation.other organic acid transformaitons.atp-citrate lyase
+8.2.10	TCA / org. transformation.other organic acid transformaitons.malic
+18.5	Co-factor and vitamine metabolism.folate & vitamine K
+29.2.1.2.2.24	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L24
+18.7	Co-factor and vitamine metabolism.iron-sulphur clusters
+13.1.3.5.1001	amino acid metabolism.synthesis.aspartate family.lysine
+18.6	Co-factor and vitamine metabolism.biotin
+11.8.1.1	lipid metabolism.exotics (steroids, squalene etc).sphingolipids.ceramidase
+11.8.1.3	lipid metabolism.exotics (steroids, squalene etc).sphingolipids.ceramide glucosyltransferase
+11.8.1.2	lipid metabolism.exotics (steroids, squalene etc).sphingolipids.serine C-palmitoyltransferase
+18.5.1.1	Co-factor and vitamine metabolism.folate & vitamine K.folate.methylenetetrahydrofolate dehydrogenase (NADP+ dependent)
+16.1.2.1001	secondary metabolism.isoprenoids.mevalonate pathway
+16.1.2.1002	secondary metabolism.isoprenoids.mevalonate pathway
+16.1.2.1003	secondary metabolism.isoprenoids.mevalonate pathway
+23.1.1.3	nucleotide metabolism.synthesis.pyrimidine.dihydroorotase
+23.1.1.2	nucleotide metabolism.synthesis.pyrimidine.aspartate transcarbamoylase
+16.1.2.1006	secondary metabolism.isoprenoids.mevalonate pathway
+16.1.2.1007	secondary metabolism.isoprenoids.mevalonate pathway
+16.2.1.1004	secondary metabolism.phenylpropanoids.lignin biosynthesis
+16.1.2.1009	secondary metabolism.isoprenoids.mevalonate pathway
+16.2.1.1007	secondary metabolism.phenylpropanoids.lignin biosynthesis
+16.2.1.1001	secondary metabolism.phenylpropanoids.lignin biosynthesis
+16.2.1.1002	secondary metabolism.phenylpropanoids.lignin biosynthesis
+16.2.1.1003	secondary metabolism.phenylpropanoids.lignin biosynthesis
+13.1.3.6.1.1001	amino acid metabolism.synthesis.aspartate family.misc.homoserine
+19.4	tetrapyrrole synthesis.ALA dehydratase
+19.5	tetrapyrrole synthesis.porphobilinogen deaminase
+19.6	tetrapyrrole synthesis.uroporphyrinogen III synthase
+19.7	tetrapyrrole synthesis.uroporphyrinogen decarboxylase
+19.1	tetrapyrrole synthesis.glu-tRNA synthetase
+19.2	tetrapyrrole synthesis.glu-tRNA reductase
+19.3	tetrapyrrole synthesis.GSA
+19.8	tetrapyrrole synthesis.coproporphyrinogen III oxidase
+19.9	tetrapyrrole synthesis.protoporphyrin IX oxidase
+29.2.1.2.2.81	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.P1
+29.2.1.2.2.80	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.P0
+2.1.2	major CHO metabolism.synthesis.starch
+26.6	misc.O-methyl transferases
+21.1010	redox regulation
+21.1011	redox regulation
+9	mitochondrial electron transport / ATP synthesis
+35.1.40	not assigned.no ontology.glycine rich proteins
+35.1.41	not assigned.no ontology.hydroxyproline rich proteins
+35.1.42	not assigned.no ontology.proline rich family
+15.1	metal handling.acquisition
+15.2	metal handling.binding, chelation and storage
+15.3	metal handling.regulation
+12.2.2	N-metabolism.ammonia metabolism.glutamine synthase
+29.2.1.1.2.2.5	protein.synthesis.ribosomal protein.prokaryotic.mitochondrion.50S subunit.L5
+26.3	misc.gluco-, galacto- and mannosidases
+13.1.2.3.1003	amino acid metabolism.synthesis.glutamate family.arginine
+17.3.1.1001	hormone metabolism.brassinosteroid.synthesis-degradation
+17.3.1.1002	hormone metabolism.brassinosteroid.synthesis-degradation
+17.3.1.1003	hormone metabolism.brassinosteroid.synthesis-degradation
+17.3.1.1004	hormone metabolism.brassinosteroid.synthesis-degradation
+17.3.1.1005	hormone metabolism.brassinosteroid.synthesis-degradation
+17.3.1.1006	hormone metabolism.brassinosteroid.synthesis-degradation
+11.9.3	lipid metabolism.lipid degradation.lysophospholipases
+11.9.2	lipid metabolism.lipid degradation.lipases
+29.2.1.2.2.527	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L27A
+29.2.1.2.2.523	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L23A
+2.2.1.3.30	major CHO metabolism.degradation.sucrose.invertases.inhibitors
+27.3.51	RNA.regulation of transcription.General Transcription, TBP-binding protein
+16.7.1001	secondary metabolism.wax
+11.1040	lipid metabolism
+11.1041	lipid metabolism
+13.2.5.3	amino acid metabolism.degradation.serine-glycine-cysteine group.cysteine
+13.2.5.2	amino acid metabolism.degradation.serine-glycine-cysteine group.glycine
+3.6	minor CHO metabolism.callose
+3.7	minor CHO metabolism.sugar kinases
+3.5	minor CHO metabolism.others
+3.3	minor CHO metabolism.sugar alcohols
+13.1.5.1.1001	amino acid metabolism.synthesis.serine-glycine-cysteine group.serine
+17.8.1002	hormone metabolism.salicylic acid.synthesis-degradation.Methylsalicylate
+17.8.1001	hormone metabolism.salicylic acid.synthesis-degradation
+1.1.40	PS.lightreaction.cyclic electron flow-chlororespiration
+20.1.1001	stress.biotic
+27.1001	RNA
+13.1.1.2.1001	amino acid metabolism.synthesis.central amino acid metabolism.aspartate
+35.2	not assigned.unknown
+17.2.1.1001	hormone metabolism.auxin.synthesis-degradation
+13.1.6.4.1	amino acid metabolism.synthesis.aromatic aa.tyrosine.arogenate dehydrogenase & prephenate dehydrogenase
+13.1.6.4.2	amino acid metabolism.synthesis.aromatic aa.tyrosine.prephenate dehydrogenase
+14.15	S-assimilation.AKN
+29.3.1	protein.targeting.nucleus
+17.1.3	hormone metabolism.abscisic acid.induced-regulated-responsive-activated
+17.1.2	hormone metabolism.abscisic acid.signal transduction
+17.1.1	hormone metabolism.abscisic acid.synthesis-degradation
+11.8.1004	lipid metabolism.exotics (steroids, squalene etc)
+9.99	mitochondrial electron transport / ATP synthesis.unspecified
+20.2.2	stress.abiotic.cold
+20.2.3	stress.abiotic.drought/salt
+20.2.1	stress.abiotic.heat
+10.2.2	cell wall.cellulose synthesis.COBRA
+20.2.4	stress.abiotic.touch/wounding
+20.2.5	stress.abiotic.light
+11.8.1007	lipid metabolism.exotics (steroids, squalene etc)
+16.5.1.3.1	secondary metabolism.sulfur-containing.glucosinolates.degradation.myrosinase
+16.5.1.3.2	secondary metabolism.sulfur-containing.glucosinolates.degradation.nitrilespecifier protein
+16.5.1.3.3	secondary metabolism.sulfur-containing.glucosinolates.degradation.nitrilase
+11.5.1	lipid metabolism.glyceral metabolism.glycerol kinase
+11.5.3	lipid metabolism.glyceral metabolism.FAD-dependent glycerol-3-phosphate dehydrogenase
+11.5.2	lipid metabolism.glyceral metabolism.Glycerol-3-phosphate dehydrogenase (NAD+)
+17.5.1.1002	hormone metabolism.ethylene.synthesis-degradation
+17.5.1.1001	hormone metabolism.ethylene.synthesis-degradation
+29.2.1.1.1.2.85	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.PSRP5
+29.2.1.1.1.2.86	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.PSRP6
+13.1.5.2.41	amino acid metabolism.synthesis.serine-glycine-cysteine group.glycine.sarcosine oxidase
+11.3.9	lipid metabolism.Phospholipid synthesis.choline monooxygenase
+11.3.8	lipid metabolism.Phospholipid synthesis.phosphatidylserine decarboxylase
+11.3.3	lipid metabolism.Phospholipid synthesis.phosphatidate cytidylyltransferase
+11.3.2	lipid metabolism.Phospholipid synthesis.choline kinase
+11.3.1	lipid metabolism.Phospholipid synthesis.1-acylglycerol-3-phosphate O-acyltransferase
+11.3.7	lipid metabolism.Phospholipid synthesis.cyclopropane-fatty-acyl-phospholipid synthase
+11.3.6	lipid metabolism.Phospholipid synthesis.choline-phosphate cytidylyltransferase
+11.3.5	lipid metabolism.Phospholipid synthesis.diacylglycerol kinase
+11.3.4	lipid metabolism.Phospholipid synthesis.CDP-diacylglycerol-inositol 3-phosphatidyltransferase
+29.2.1.2.2.99	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.unknown
+13.1.4.4.1001	amino acid metabolism.synthesis.branched chain group.leucine specific
+11.9.3.4	lipid metabolism.lipid degradation.lysophospholipases.phospholipase A2
+11.9.3.5	lipid metabolism.lipid degradation.lysophospholipases.phosphoinositide phospholipase C
+11.9.3.2	lipid metabolism.lipid degradation.lysophospholipases.carboxylesterase
+11.9.3.3	lipid metabolism.lipid degradation.lysophospholipases.glycerophosphodiester phosphodiesterase
+11.9.3.1	lipid metabolism.lipid degradation.lysophospholipases.phospholipase D
+29.2.1.99.2.23	protein.synthesis.ribosomal protein.unknown.large subunit.L23
+16.8.3	secondary metabolism.flavonoids.dihydroflavonols
+16.8.2	secondary metabolism.flavonoids.chalcones
+16.8.1	secondary metabolism.flavonoids.anthocyanins
+16.8.5	secondary metabolism.flavonoids.isoflavonols
+16.8.4	secondary metabolism.flavonoids.flavonols
+10.1.1.20	cell wall.precursor synthesis.NDP sugar pyrophosphorylase.multiple NDP-Sugars
+16.8.1.21	secondary metabolism.flavonoids.anthocyanins.anthocyanin 5-aromatic acyltransferase
+30.99	signalling.unspecified
+16.5.1.3.2.1	secondary metabolism.sulfur-containing.glucosinolates.degradation.nitrilespecifier protein.epithiospecifier protein
+8.1.1.1	TCA / org. transformation.TCA.pyruvate DH.E1
+8.1.1.3	TCA / org. transformation.TCA.pyruvate DH.E3
+8.1.1.2	TCA / org. transformation.TCA.pyruvate DH.E2
+17.3.2.2	hormone metabolism.brassinosteroid.signal transduction.BZR
+17.3.2.1	hormone metabolism.brassinosteroid.signal transduction.BRI
+10.6.1001	cell wall.degradation
+12.2.99	N-metabolism.ammonia metabolism.unspecified
+29.2.1.99.1.4	protein.synthesis.ribosomal protein.unknown.small subunit.S4
+29.2.1.99.1.9	protein.synthesis.ribosomal protein.unknown.small subunit.S9
+32	micro RNA, natural antisense etc
+31	cell
+34	transport
+2.2.2.6	major CHO metabolism.degradation.starch.transporter
+2.2.2.4	major CHO metabolism.degradation.starch.D enzyme
+2.2.2.3	major CHO metabolism.degradation.starch.glucan water dikinase
+2.2.2.2	major CHO metabolism.degradation.starch.starch phosphorylase
+2.2.2.1	major CHO metabolism.degradation.starch.starch cleavage
+29.2.1.2.2.536	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L36A
+29.2.1.1.3.1.1	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.30S subunit.S1
+29.2.1.1.3.1.5	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.30S subunit.S5
+29.2.1.1.3.1.4	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.30S subunit.S4
+29.2.1.1.3.1.6	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.30S subunit.S6
+10.6.3	cell wall.degradation.pectate lyases and polygalacturonases
+10.6.2	cell wall.degradation.mannan-xylose-arabinose-fucose
+26.3.1	misc.gluco-, galacto- and mannosidases.alpha-galactosidase
+26.3.3	misc.gluco-, galacto- and mannosidases.alpha-mannosidase
+26.3.2	misc.gluco-, galacto- and mannosidases.beta-galactosidase
+26.3.5	misc.gluco-, galacto- and mannosidases.glycosyl hydrolase family 5
+26.3.4	misc.gluco-, galacto- and mannosidases.endoglucanase
+13.1.4.5	amino acid metabolism.synthesis.branched chain group.isoleucine specific
+16.1.1.10	secondary metabolism.isoprenoids.non-mevalonate pathway.geranylgeranyl pyrophosphate synthase
+11.1.9	lipid metabolism.FA synthesis and FA elongation.long chain fatty acid CoA ligase
+8.1.1004	TCA / org. transformation. TCA
+8.1.1005	TCA / org. transformation. TCA
+8.1.1006	TCA / org. transformation. TCA
+8.1.1007	TCA / org. transformation. TCA
+8.1.1001	TCA / org. transformation. TCA
+8.1.1002	TCA / org. transformation. TCA
+8.1.1003	TCA / org. transformation. TCA
+8.1.1008	TCA / org. transformation. TCA
+16.2.99.1032	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1037	secondary metabolism.phenylpropanoids.unspecified
+29.4.1.56	protein.postranslational modification.kinase.receptor like cytoplasmatic kinase VI
+29.4.1.57	protein.postranslational modification.kinase.receptor like cytoplasmatic kinase VII
+29.4.1.54	protein.postranslational modification.kinase.receptor like cytoplasmatic kinase IV
+29.4.1.55	protein.postranslational modification.kinase.receptor like cytoplasmatic kinase V
+29.4.1.52	protein.postranslational modification.kinase.receptor like cytoplasmatic kinase II
+29.4.1.53	protein.postranslational modification.kinase.receptor like cytoplasmatic kinase III
+29.4.1.51	protein.postranslational modification.kinase.receptor like cytoplasmatic kinase I
+29.4.1.58	protein.postranslational modification.kinase.receptor like cytoplasmatic kinase VIII
+29.4.1.59	protein.postranslational modification.kinase.receptor like cytoplasmatic kinase IX
+4.1.16	glycolysis.cytosolic branch.phospho-enol-pyruvate carboxylase (PEPC)
+22.1.6	polyamine metabolism.synthesis.spermidine synthase
+4.1.14	glycolysis.cytosolic branch.enolase
+4.1.15	glycolysis.cytosolic branch.pyruvate kinase (PK)
+4.1.12	glycolysis.cytosolic branch.3-phosphoglycerate kinase (PGK)
+4.1.13	glycolysis.cytosolic branch.phosphoglycerate mutase
+4.1.10	glycolysis.cytosolic branch.non-phosphorylating glyceraldehyde 3-phosphate dehydrogenase (NPGAP-DH)
+4.1.11	glycolysis.cytosolic branch.aldolase
+13.2.6.2	amino acid metabolism.degradation.aromatic aa.tyrosine
+13.2.6.3	amino acid metabolism.degradation.aromatic aa.tryptophan
+4.3.11	glycolysis.unclear/dually targeted.aldolase
+4.3.13	glycolysis.unclear/dually targeted.phosphoglycerate mutase
+16.2.99.1048	secondary metabolism.phenylpropanoids.unspecified
+4.3.15	glycolysis.unclear/dually targeted.pyruvate kinase (PK)
+4.3.17	glycolysis.unclear/dually targeted.phospho-enol-pyruvate carboxylase kinase (PEPCK)
+16.2.99.1044	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1045	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1046	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1047	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1040	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1041	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1042	secondary metabolism.phenylpropanoids.unspecified
+16.2.99.1043	secondary metabolism.phenylpropanoids.unspecified
+29.2.1.2.1.5	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S5
+29.2.1.2.1.4	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S4
+29.2.1.2.1.7	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S7
+29.2.1.2.1.6	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S6
+29.2.1.2.1.3	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S3
+29.2.1.2.1.2	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S2
+35.1.1023	not assigned.no ontology
+29.2.1.2.1.9	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S9
+29.2.1.2.1.8	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S8
+3.1.3	minor CHO metabolism.raffinose family.stachyose synthases
+35.1.1021	not assigned.no ontology
+35.1.1020	not assigned.no ontology
+13.2.2.2	amino acid metabolism.degradation.glutamate family.proline
+13.2.2.3	amino acid metabolism.degradation.glutamate family.arginine
+13.2.2.1	amino acid metabolism.degradation.glutamate family.glutamine
+34.99	transport.misc
+34.98	transporter.membrane system unknown
+29.1.17	protein.aa activation.glutamate-tRNA ligase
+16.1.4.1006	secondary metabolism.isoprenoids.carotenoids.delta carotene
+10.5.5	cell wall.cell wall proteins.RGP
+16.1.4.1004	secondary metabolism.isoprenoids.carotenoids.alpha carotene
+16.1.4.1005	secondary metabolism.isoprenoids.carotenoids.beta carotene
+16.1.4.1002	secondary metabolism.isoprenoids.carotenoids.zeta carotene
+16.1.4.1003	secondary metabolism.isoprenoids.carotenoids.lycopene
+10.5.2	cell wall.cell wall proteins.proline rich proteins
+16.1.4.1001	secondary metabolism.isoprenoids.carotenoids.phytoene
+3.5.1	minor CHO metabolism.others.Xylose isomerase
+10.1.2	cell wall.precursor synthesis.UGE
+10.1.3	cell wall.precursor synthesis.AXS
+10.1.4	cell wall.precursor synthesis.UGD
+10.1.5	cell wall.precursor synthesis.UXS
+10.1.6	cell wall.precursor synthesis.GAE
+10.1.7	cell wall.precursor synthesis.GMD
+10.1.8	cell wall.precursor synthesis.GER
+10.1.9	cell wall.precursor synthesis.MUR4
+16.8.3.2	secondary metabolism.flavonoids.dihydroflavonols.flavanone 3-dioxygenase
+16.8.4.1	secondary metabolism.flavonoids.flavonols.dihydrokaempferol 4-reductase
+4.1003	glycolysis
+4.1002	glycolysis
+4.1001	glycolysis
+16.8.3.3	secondary metabolism.flavonoids.dihydroflavonols.flavonoid 3-monooxygenase
+4.1007	glycolysis
+4.1006	glycolysis
+4.1005	glycolysis
+4.1004	glycolysis
+13.1.5.2.2	amino acid metabolism.synthesis.serine-glycine-cysteine group.glycine.glycine transaminase
+13.1.5.2.3	amino acid metabolism.synthesis.serine-glycine-cysteine group.glycine.serine glyoxylate aminotransferase
+13.2.3.5.1002	amino acid metabolism.degradation.aspartate family.lysine
+13.2.3.5.1001	amino acid metabolism.degradation.aspartate family.lysine
+23.2.2	nucleotide metabolism.degradation.purines
+31.2.5	cell.division.plastid
+23.1.2.20	nucleotide metabolism.synthesis.purine.adenylosuccinate synthase
+22.1.7	polyamine metabolism.synthesis.spermine synthase
+17.1.1.1001	hormone metabolism.abscisic acid.synthesis-degradation
+4.1.17	glycolysis.cytosolic branch.phospho-enol-pyruvate carboxylase kinase (PPCK)
+22.1.5	polyamine metabolism.synthesis.N-carbamoylputrescine amidohydrolase
+12.1.2	N-metabolism.nitrate metabolism.nitrite reductase
+18.4.8	Co-factor and vitamine metabolism.pantothenate.pantetheine-phosphate adenylyltransferase  (PPAT)
+20.1002	stress
+12.1.1	N-metabolism.nitrate metabolism.NR
+18.4.1	Co-factor and vitamine metabolism.pantothenate.branched-chain amino acid aminotransferase
+22.1.3	polyamine metabolism.synthesis.arginine decarboxylase
+18.4.3	Co-factor and vitamine metabolism.pantothenate.2-dehydropantoate 2-reductase
+18.4.2	Co-factor and vitamine metabolism.pantothenate.3-methyl-2-oxobutanoate hydroxymethyltransferase (KPHMT,PANB)
+18.4.5	Co-factor and vitamine metabolism.pantothenate.pantothenate kinase (PANK)
+18.4.4	Co-factor and vitamine metabolism.pantothenate.pantoate beta-alanine ligase (PANC, pantothenate synthetase)
+18.4.7	Co-factor and vitamine metabolism.pantothenate.phosphopantothenoylcysteine decarboxylase (PPCDC)
+18.4.6	Co-factor and vitamine metabolism.pantothenate.phosphopantothenoylcysteine synthetase (PPCS)
+10.1.10	cell wall.precursor synthesis.RHM
+10.1.11	cell wall.precursor synthesis.UER
+11.9.4.13	lipid metabolism.lipid degradation.beta-oxidation.acyl CoA reductase
+14.1001	Mineral Nutrition
+9.8	mitochondrial electron transport / ATP synthesis.uncoupling protein
+9.9	mitochondrial electron transport / ATP synthesis.F1-ATPase
+23.1.1.1001	nucleotide metabolism.synthesis.pyrimidines
+23.1.1.1003	nucleotide metabolism.synthesis.pyrimidines
+23.1.1.1002	nucleotide metabolism.synthesis.pyrimidines
+23.1.1.1005	nucleotide metabolism.synthesis.pyrimidines
+23.1.1.1004	nucleotide metabolism.synthesis.pyrimidines
+23.1.1.1007	nucleotide metabolism.synthesis.pyrimidines
+23.1.1.1006	nucleotide metabolism.synthesis.pyrimidines
+23.1.1.1009	nucleotide metabolism.synthesis.pyrimidines
+23.1.1.1008	nucleotide metabolism.synthesis.pyrimidines
+16.4.3.1	secondary metabolism.N misc.cyanogenic glycosides
+29.3.99	protein.targeting.unknown
+1.2	PS.photorespiration
+1.3	PS.calvin cyle
+30.4.3	signalling.phosphinositides.bis(5-nucleosyl)-tetraphosphatase
+30.4.2	signalling.phosphinositides.phosphatidylinositol 4-kinase
+30.4.1	signalling.phosphinositides.phosphatidylinositol-4-phosphate 5-kinase
+30.4.5	signalling.phosphinositides.inositol-1,3,4-trisphosphate 5/6-kinase
+30.4.4	signalling.phosphinositides.phosphoinositide phospholipase C
+16.1.5.1001	secondary metabolism.isoprenoids.terpenoids
+16.1.5.1003	secondary metabolism.isoprenoids.terpenoids
+16.1.5.1002	secondary metabolism.isoprenoids.terpenoids
+30.2.5	signalling.receptor kinases.leucine rich repeat V
+30.2.4	signalling.receptor kinases.leucine rich repeat IV
+30.2.7	signalling.receptor kinases.leucine rich repeat VII
+30.2.6	signalling.receptor kinases.leucine rich repeat VI
+30.2.1	signalling.receptor kinases.leucine rich repeat I
+30.2.3	signalling.receptor kinases.leucine rich repeat III
+30.2.2	signalling.receptor kinases.leucine rich repeat II
+30.11.1	signalling.light.COP9 signalosome
+13.1001	amino acid metabolism.methionine S-oxide
+7.1.1001	OPP.oxidative PP
+29.2.1.2.1.14	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S14
+29.2.1.2.1.17	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S17
+29.2.1.2.1.16	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S16
+29.2.1.2.1.11	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S11
+29.2.1.2.1.10	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S10
+29.2.1.2.1.13	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S13
+29.2.1.2.1.12	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S12
+29.2.1.2.1.19	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S19
+29.2.1.2.1.18	protein.synthesis.ribosomal protein.eukaryotic.40S subunit.S18
+21.2.2	redox.ascorbate and glutathione.glutathione
+21.2.1	redox.ascorbate and glutathione.ascorbate
+1.3.2	PS.calvin cyle.rubisco small subunit
+23.1.2.1011	nucleotide metabolism.synthesis.purines
+13.1.3.5.5	amino acid metabolism.synthesis.aspartate family.lysine.diaminopimelate decarboxylase
+13.1.3.5.4	amino acid metabolism.synthesis.aspartate family.lysine.diaminopimelate epimerase
+13.1.3.5.1	amino acid metabolism.synthesis.aspartate family.lysine.dihydrodipicolinate synthase
+13.1.3.5.3	amino acid metabolism.synthesis.aspartate family.lysine.LL-diaminopimelic acid aminotransferase
+13.1.3.5.2	amino acid metabolism.synthesis.aspartate family.lysine.dihydrodipicolinate reductase
+18.4.9	Co-factor and vitamine metabolism.pantothenate.dephospho-CoA kinase (DPCK)
+13.1.1.3.1	amino acid metabolism.synthesis.central amino acid metabolism.alanine.alanine aminotransferase
+13.1.1.1.2	amino acid metabolism.synthesis.central amino acid metabolism.GABA.GABA transaminase
+13.1.1.1.1	amino acid metabolism.synthesis.central amino acid metabolism.GABA.Glutamate decarboxylase
+13.1.6.2.1	amino acid metabolism.synthesis.aromatic aa.phenylalanine and tyrosine.chorismate mutase
+16.2.99.1051	secondary metabolism.phenylpropanoids.unspecified
+29.2.1.1.1.1.13	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.30S subunit.S13
+29.2.1.1.1.1.12	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.30S subunit.S12
+29.2.1.1.1.1.11	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.30S subunit.S11
+29.2.1.1.1.1.10	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.30S subunit.S10
+29.2.1.1.1.1.17	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.30S subunit.S17
+29.2.1.1.1.1.16	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.30S subunit.S16
+29.2.1.1.1.1.15	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.30S subunit.S15
+29.2.1.1.1.1.14	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.30S subunit.S14
+29.2.1.1.1.1.19	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.30S subunit.S19
+29.2.1.1.1.1.18	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.30S subunit.S18
+27.3.81	RNA.regulation of transcription.S1FA
+27.3.80	RNA.regulation of transcription.zf-HD
+27.3.83	RNA.regulation of transcription.GRF zinc finger family
+27.3.82	RNA.regulation of transcription.plant TF (pbf2)
+29.2.1.1.3.2.99	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.50S subunit.unknown
+17.6.1.11	hormone metabolism.gibberelin.synthesis-degradation.GA20 oxidase
+17.6.1.13	hormone metabolism.gibberelin.synthesis-degradation.GA2 oxidase
+17.6.1.12	hormone metabolism.gibberelin.synthesis-degradation.GA3 oxidase
+13.1.3.4	amino acid metabolism.synthesis.aspartate family.methionine
+29.4.1.61	protein.postranslational modification.kinase.receptor like cytoplasmatic kinase X
+34.9	transport.metabolite transporters at the mitochondrial membrane
+34.8	transport.metabolite transporters at the envelope membrane
+34.7	transport.phosphate
+34.6	transport.sulphate
+34.5	transport.ammonium
+34.4	transport.nitrate
+34.3	transport.amino acids
+34.2	transporter.sugars
+34.1	transport.p- and v-ATPases
+16.1.1.7	secondary metabolism.isoprenoids.non-mevalonate pathway.HDR
+16.1.1.6	secondary metabolism.isoprenoids.non-mevalonate pathway.HDS
+16.1.1.5	secondary metabolism.isoprenoids.non-mevalonate pathway.MCS
+16.1.1.4	secondary metabolism.isoprenoids.non-mevalonate pathway.CMK
+16.1.1.3	secondary metabolism.isoprenoids.non-mevalonate pathway.CMS
+16.1.1.2	secondary metabolism.isoprenoids.non-mevalonate pathway.DXR
+16.1.1.1	secondary metabolism.isoprenoids.non-mevalonate pathway.DXS
+34.18.1	transport.unspecified anions.arsenite-transporting ATPase
+13.1.6.1.10	amino acid metabolism.synthesis.aromatic aa.chorismate.dehydroquinate/shikimate dehydrogenase
+17.3.2.99	hormone metabolism.brassinosteroid.signal transduction.other
+9.1001	mitochondrial electron transport / ATP synthesis
+13.1.3.4.12	amino acid metabolism.synthesis.aspartate family.methionine.homocysteine S-methyltransferase
+13.1.3.4.13	amino acid metabolism.synthesis.aspartate family.methionine.methionine S-methyltransferase
+16.5.1.1.2.1	secondary metabolism.sulfur-containing.glucosinolates.synthesis.aromatic.CYP79A2 monooxygenase
+27.3.67	RNA.regulation of transcription.putative transcription regulator
+27.3.66	RNA.regulation of transcription.Psudo ARR transcription factor family
+27.3.65	RNA.regulation of transcription.Polycomb Group (PcG)
+16.20.1005	secondary metabolism.amino acid derivatives
+27.3.63	RNA.regulation of transcription.PHD finger transcription factor
+27.3.62	RNA.regulation of transcription.Nucleosome/chromatin assembly factor group
+27.3.61	RNA.regulation of transcription.NPR1/NIM1
+27.3.60	RNA.regulation of transcription.NIN-like bZIP-related family
+9.2.2	mitochondrial electron transport / ATP synthesis.NADH-DH.type II.external
+29.2.1.1.1.2.9	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L9
+27.3.69	RNA.regulation of transcription.SET-domain transcriptional regulator family
+27.3.68	RNA.regulation of transcription.PWWP domain protein
+23.1.2.30	nucleotide metabolism.synthesis.purine.IMP dehydrogenase
+23.1.2.31	nucleotide metabolism.synthesis.purine.GMP synthetase
+8.3	TCA / org. transformation.carbonic anhydrases
+17.7.1.3	hormone metabolism.jasmonate.synthesis-degradation.allene oxidase synthase
+23.4.99	nucleotide metabolism.phosphotransfer and pyrophosphatases.misc
+3.99	minor CHO metabolism.misc
+29.2.1.1.2.2.37	protein.synthesis.ribosomal protein.prokaryotic.mitochondrion.50S subunit.L37
+23.1.1.1011	nucleotide metabolism.synthesis.pyrimidines
+25.10	C1-metabolism.formate dehydrogenase
+991.1.1001	Mineral Nutrition.phosphate
+27.1.2	RNA.processing.RNA helicase
+27.1.1	RNA.processing.splicing
+13.1.4.3.1001	amino acid metabolism.synthesis.branched chain group.valine specific
+23.5.2	nucleotide metabolism.deoxynucleotide metabolism.pseudouridine synthase
+23.5.3	nucleotide metabolism.deoxynucleotide metabolism.cytosine deaminase
+23.5.1	nucleotide metabolism.deoxynucleotide metabolism.dihydrofolate reductase-thymidylate synthase
+23.5.4	nucleotide metabolism.deoxynucleotide metabolism.ribonucleoside-diphosphate reductase
+23.5.5	nucleotide metabolism.deoxynucleotide metabolism.dUTP diphosphatase
+26.26.1	misc.aminotransferases.aminotransferase class IV family protein
+10.5.4	cell wall.cell wall proteins.HRGP
+13.1.6.1.1001	amino acid metabolism.synthesis.serine-glycine-cysteine group.cysteine
+13.1.6.1.1002	amino acid metabolism.synthesis.aromatic aa.chorismate
+26.2	misc.UDP glucosyl and glucoronyl transferases
+10.5.1	cell wall.cell wall proteins.AGPs
+10.5.3	cell wall.cell wall proteins.LRR
+3.4.1003	minor CHO metabolism.myo-inositol
+11.1.8	lipid metabolism.FA synthesis and FA elongation.acyl coa ligase
+11.1.1	lipid metabolism.FA synthesis and FA elongation.Acetyl CoA Carboxylation
+11.1.3	lipid metabolism.FA synthesis and FA elongation.ketoacyl ACP synthase
+11.1.2	lipid metabolism.FA synthesis and FA elongation.Acetyl CoA Transacylase
+11.1.5	lipid metabolism.FA synthesis and FA elongation.beta hydroxyacyl ACP dehydratase
+11.1.4	lipid metabolism.FA synthesis and FA elongation.ACP oxoacyl reductase
+11.1.7	lipid metabolism.FA synthesis and FA elongation.ACP thioesterase
+11.1.6	lipid metabolism.FA synthesis and FA elongation.enoyl ACP reductase
+29.2.1.2.2.41	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L41
+29.2.1.2.2.40	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L40
+3.2.1001	minor CHO metabolism.trehalose
+29.2.1.1.1.2.27	protein.synthesis.ribosomal protein.prokaryotic.chloroplast.50S subunit.L27
+29.2.1.1.3.1.21	protein.synthesis.ribosomal protein.prokaryotic.unknown organellar.30S subunit.S21
+27.3.99	RNA.regulation of transcription.unclassified
+27.3	RNA.regulation of transcription
+27.2	RNA.transcription
+27.1	RNA.processing
+29.2.1.2.2.141	protein.synthesis.ribosomal protein.eukaryotic.60S subunit.L4/L1
+16.8.1.12	secondary metabolism.flavonoids.anthocyanins.anthocyanidin 3-O-glucosyltransferase
+27.4	RNA.RNA binding
+10.8.2	cell wall.pectin*esterases.acetyl esterase
+25.1	C1-metabolism.glycine hydroxymethyltransferase
+25.3	C1-metabolism.dihydropteridine diphosphokinase
+25.2	C1-metabolism.formate-tetrahydrofolate ligase
+25.5	C1-metabolism.Methylenetetrahydrofolate dehydrogenase & Methenyltetrahydrofolate cyclohydrolase
+25.4	C1-metabolism.5-formyltetrahydrofolate cyclo-ligase
+25.7	C1-metabolism.GTP cyclohydrolase I
+25.6	C1-metabolism.methylenetetrahydrofolate reductase
+25.9	C1-metabolism.dihydroneopterin aldolase
+25.8	C1-metabolism.tetrahydrofolate synthase
+23.3	nucleotide metabolism.salvage
+23.2	nucleotide metabolism.degradation
+35.1.1005	not assigned.no ontology
+29.8	protein.assembly and cofactor ligation
+16.8.1.1	secondary metabolism.flavonoids.anthocyanins.leucocyanidin oxygenase
+23.1.2.6	nucleotide metabolism.synthesis.purine.AIR carboxylase
+17.6.1.4	hormone metabolism.gibberelin.synthesis-degradation.ent-kaurenoic acid hydroxylase/oxygenase
+17.6.1.1	hormone metabolism.gibberelin.synthesis-degradation.copalyl diphosphate synthase
+16.8.3.1	secondary metabolism.flavonoids.dihydroflavonols.dihydrokaempferol 4-reductase
+17.6.1.3	hormone metabolism.gibberelin.synthesis-degradation.ent-kaurene oxidase
+17.6.1.2	hormone metabolism.gibberelin.synthesis-degradation.ent-kaurene synthase
+29.2.1.1.2.1.2	protein.synthesis.ribosomal protein.prokaryotic.mitochondrion.30S subunit.S2
+29.2.1.1.2.1.3	protein.synthesis.ribosomal protein.prokaryotic.mitochondrion.30S subunit.S3
+29.2.1.1.2.1.4	protein.synthesis.ribosomal protein.prokaryotic.mitochondrion.30S subunit.S4
+29.2.1.1.2.1.7	protein.synthesis.ribosomal protein.prokaryotic.mitochondrion.30S subunit.S7
+27.3.75	RNA.regulation of transcription.GRP
+27.3.70	RNA.regulation of transcription.Silencing Group
+27.3.71	RNA.regulation of transcription.SNF7
+27.3.72	RNA.regulation of transcription.Transcriptional Adaptor Zinc Bundle (TAZ) domain family
+27.3.73	RNA.regulation of transcription.Zn-finger(CCHC)
+9.4	mitochondrial electron transport / ATP synthesis.alternative oxidase
+9.5	mitochondrial electron transport / ATP synthesis.cytochrome c reductase
+9.6	mitochondrial electron transport / ATP synthesis.cytochrome c
+9.7	mitochondrial electron transport / ATP synthesis.cytochrome c oxidase
+9.3	mitochondrial electron transport / ATP synthesis.electron transfer flavoprotein
+13.1.6.5.1	amino acid metabolism.synthesis.aromatic aa.tryptophan.anthranilate synthase
+13.1.6.5.2	amino acid metabolism.synthesis.aromatic aa.tryptophan.anthranilate phosphoribosyltransferase
+13.1.6.5.3	amino acid metabolism.synthesis.aromatic aa.tryptophan.phosphoribosyanthranilate isomerase
+13.1.6.5.4	amino acid metabolism.synthesis.aromatic aa.tryptophan.indole-3-glycerol phosphate synthase
+13.1.6.5.5	amino acid metabolism.synthesis.aromatic aa.tryptophan.tryptophan synthase
+1.3.3	PS.calvin cyle.phosphoglycerate kinase
+23.1.2.1012	nucleotide metabolism.synthesis.purines
+1.3.1	PS.calvin cyle.rubisco large subunit
+23.1.2.1010	nucleotide metabolism.synthesis.purines
+1.3.7	PS.calvin cyle.FBPase
+1.3.6	PS.calvin cyle.aldolase
+1.3.5	PS.calvin cycle.TPI
+1.3.4	PS.calvin cyle.GAP
+30.2.99	signalling.receptor kinases.misc
+1.3.9	PS.calvin cyle.seduheptulose bisphosphatase
+1.3.8	PS.calvin cyle.transketolase
+29.5.11.20	protein.degradation.ubiquitin.proteasom
+17.7.1	hormone metabolism.jasmonate.synthesis-degradation
+17.7.3	hormone metabolism.jasmonate.induced-regulated-responsive-activated
+17.5.3	hormone metabolism.ethylene.induced-regulated-responsive-activated
+17.5.2	hormone metabolism.ethylene.signal transduction
+17.5.1	hormone metabolism.ethylene.synthesis-degradation
+17.3.3	hormone metabolism.brassinosteroid.induced-regulated-responsive-activated
+35.1.13	not assigned.no ontology.SET domain-containing protein
+35.1.12	not assigned.no ontology.pumilio/Puf RNA-binding domain-containing protein
+2.2.1.3.3	major CHO metabolism.degradation.sucrose.invertases.vacuolar
+2.2.1.3.2	major CHO metabolism.degradation.sucrose.invertases.cell wall
+2.2.1.3.1	major CHO metabolism.degradation.sucrose.invertases.neutral
+29.2.1.1.2.2.29	protein.synthesis.ribosomal protein.prokaryotic.mitochondrion.50S subunit.L29
+1.1.1.1	PS.lightreaction.photosystem II.LHC-II
+1.1.1.2	PS.lightreaction.photosystem II.PSII polypeptide subunits
+29.5	protein.degradation
+29.4	protein.postranslational modification
+29.7	protein.glycosylation
+29.6	protein.folding
+29.1	protein.aa activation
+29.3	protein.targeting
+29.2	protein.synthesis
+23.1.1.4	nucleotide metabolism.synthesis.pyrimidine.dihydroorotate dehydrogenase
+13.1.2.3.2	amino acid metabolism.synthesis.glutamate family.arginine.acetylglutamate kinase
+16.1.2.1004	secondary metabolism.isoprenoids.mevalonate pathway
+2.2.1.99	major CHO metabolism.degradation.sucrose.misc
+13.1.2.3.4	amino acid metabolism.synthesis.glutamate family.arginine.acetylornithine aminotransferase
+16.1.2.1005	secondary metabolism.isoprenoids.mevalonate pathway

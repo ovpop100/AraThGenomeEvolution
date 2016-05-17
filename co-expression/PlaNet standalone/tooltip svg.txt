@@ -1,0 +1,7 @@
+<g id='ToolTip' opacity='0.8' visibility='hidden' pointer-events='none'>
+ 
+<rect id='tipbox' x='0' y='0' width='88' height='20' rx='0' ry='0' fill='khaki' stroke='black'/>
+<g id='TextPlaceHolder'>
+</g>
+    
+</g>

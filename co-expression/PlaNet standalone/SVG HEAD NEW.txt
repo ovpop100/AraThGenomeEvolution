@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [<!ATTLIST svg xmlns:xlink CDATA #FIXED "http://www.w3.org/1999/xlink">]>
+<svg viewbox="%s %s %s %s" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" onload="Init(evt)">
+<g id="graph0" class="graph">
+<title>G</title>
+<script type="text/ecmascript" xlink:href="helper_functions.js"/>
+	<script type="text/ecmascript" xlink:href="mapApp.js"/>
+	<script type="text/ecmascript" xlink:href="timer.js"/>
+	<script type="text/ecmascript" xlink:href="textbox.js"/>
+	<script type="text/ecmascript">
+		<![CDATA[	
+		var myMapApp = new mapApp(false,undefined);
+		var textbox1;
+		
+	function delay(millis)
+{
+var date = new Date();
+var curDate = null;
+
+do { curDate = new Date(); }
+while(curDate-date < millis);
+} 
+
+	function doTheWork(){
+		var text = textbox1.getValue();
+		 text=text.toLowerCase(); 
+		 var myelem = document.getElementById(text);
+			 myelem.setAttribute("r",6) ;
+			 //alert("done");
+			}
+	
+		function finder (evt){
+		  //alert(textbox1.getValue());
+		  var text = textbox1.getValue();
+		  text=text.toLowerCase(); 
+		  var myelem = document.getElementById(text);
+		  
+		  //for (i =100; i>5; i--){
+			//myelem.setAttributeNS(null,"visibility","hidden") ;	
+			if (myelem==null) {
+				alert("Item "+textbox1.getValue()+ " not found");
+				return;
+			}
+			
+			
+			myelem.setAttribute("r",50) ;
+			/*function doTheWork(){     IE cant reference internal functions as it seems
+			 myelem.setAttribute("r",6) ;
+			 alert("done");
+			}*/
+			setTimeout("doTheWork()", 1000);
+			
+			//myelem.setAttribute("r",50) ;
+		
+		//	alert("Found");
+			
+			//}
+			
+		}
+		
+		function weibull(){}
+		function initialize(evt) {
+            //styles
+            var textStyles = {"font-family":"Arial,Helvetica","font-size":15,"fill":"dimgray"};
+            var boxStyles = {"fill":"white","stroke":"dimgray","stroke-width":1.5};
+            var cursorStyles = {"stroke":"red","stroke-width":1.5};
+            var selBoxStyles = {"fill":"blue","opacity":0.5};
+			var textYOffset = 22;
+			//create new textboxes
+			textbox1 = new textbox("textbox1","textbox1","",25,100,100,200,30,textYOffset,textStyles,boxStyles,cursorStyles,selBoxStyles,"[a-zA-Z0-9 ]",weibull);
+
+			
+			}
+
+		
+      var SVGDocument = null;
+      var SVGRoot = null;
+      var SVGViewBox = null;
+      var svgns = 'http://www.w3.org/2000/svg';
+      var xlinkns = 'http://www.w3.org/1999/xlink';
+      var toolTip = null;
+      var toolTipText = null;
+      var TrueCoords = null;
+      var tipBox = null;
+      var twrap=50;
+
+      var lastElement = null;
+      var titleText = '';
+      var titleDesc = '';
+	  var helpText;
+	  var helpNode;
+	  var docuWidth;
+
+
+      function Init(evt)
+      { 
+         SVGDocument = evt.target.ownerDocument;
+         SVGRoot = SVGDocument.documentElement;
+         TrueCoords = SVGRoot.createSVGPoint();
+	 
+         toolTip = SVGDocument.getElementById('ToolTip');
+         tipBox = SVGDocument.getElementById('tipbox');
+	 toolTipText = SVGDocument.getElementById('TextPlaceHolder');
+          docuWidth = SVGRoot.getBBox().width;
+		  
+		  /*  helpText=document.createElementNS(svgns,"text");
+			helpText.setAttributeNS(null,"font-size","10px");
+			helpText.setAttributeNS(null,"x",0);		
+			helpText.setAttributeNS(null,"y",0);	
+			//helpText.setAttributeNS(null,"visibility","hidden");
+			helpNode = document.createTextNode(" ");
+            helpText.appendChild(helpNode);
+			SVGRoot.appendChild(helpText);*/
+         //window.status = (TrueCoords);
+
+         //create event for object
+         //SVGRoot.addEventListener('mousemove', ShowTooltip, false);
+         //SVGRoot.addEventListener('mouseout', HideTooltip, false);
+		 initialize(evt);
+      };
+
+      function nodes(node,targets){
+         document.getElementById(node).setAttribute('fill', 'green');
+	 var tars = targets.split("|");
+	 var i;
+	 for (i=0; i<tars.length; i++){
+		document.getElementById(tars[i]).setAttribute('fill', 'blue');
+	
+	 }
+	 
+      }
+
+      function denodes(node,targets){
+         document.getElementById(node).setAttribute('fill', 'black');
+	 var tars = targets.split("|");
+	 var i;
+	 for (i=0; i<tars.length; i++){
+		document.getElementById(tars[i]).setAttribute('fill', 'black');
+	 }
+	 
+      }
+
+      function GetTrueCoords(evt)
+      {
+         // find the current zoom level and pan setting, and adjust the reported
+         //    mouse position accordingly
+         var newScale = SVGRoot.currentScale;
+         var translation = SVGRoot.currentTranslate;
+         TrueCoords.x = (evt.clientX - translation.x)/newScale;
+         TrueCoords.y = (evt.clientY - translation.y)/newScale;
+      };
+
+
+      function HideTooltip( evt )
+      {
+         toolTip.setAttributeNS(null, 'visibility', 'hidden');
+      };
+
+
+      function ShowTooltip( evt )
+      {
+         GetTrueCoords( evt );
+	
+         var tipScale = 1/SVGRoot.currentScale;
+         var textWidth = 0;
+         var tspanWidth = 0;
+         var boxHeight = 20;
+		
+         tipBox.setAttributeNS(null, 'transform', 'scale(' + tipScale + ',' + tipScale + ')' );
+         //tipText.setAttributeNS(null, 'transform', 'scale(' + tipScale + ',' + tipScale + ')' );
+
+         var titleValue = '';
+         var descValue = '';
+         var targetElement = evt.target;
+         if ( lastElement != targetElement )
+         {
+            var targetTitle = targetElement.getElementsByTagName('title').item(0);
+            if ( targetTitle )
+            {
+               // if there is a 'title' element, use its contents for the tooltip title
+               titleValue = targetTitle.firstChild.nodeValue;
+            }
+
+            var targetDesc = targetElement.getElementsByTagName('desc').item(0);
+            if ( targetDesc )
+            {
+               // if there is a 'desc' element, use its contents for the tooltip desc
+               descValue = targetDesc.firstChild.nodeValue;
+
+               if ( '' == titleValue )
+               {
+                  // if there is no 'title' element, use the contents of the 'desc' element for the tooltip title instead
+                  titleValue = descValue;
+                  descValue = '';
+               }
+            }
+
+            // if there is still no 'title' element, use the contents of the 'id' attribute for the tooltip title
+            if ( '' == titleValue )
+            {
+               titleValue = targetElement.getAttributeNS(null, 'id');
+            }
+
+            // selectively assign the tooltip title and desc the proper values,
+            //   and hide those which don't have text values
+            //
+            var titleDisplay = 'none';
+            
+            
+		var zahler;
+		while ( toolTipText.firstChild ) {  //remove appended children
+		
+			 toolTipText.removeChild(toolTipText.firstChild);
+			 
+		};
+		//GENERATE the title *********
+			var newTitle = document.createElementNS(svgns,"text");
+			newTitle.setAttributeNS(null,"x",5);		
+			newTitle.setAttributeNS(null,"y",20);	
+			newTitle.setAttributeNS(null,"font-size","14px");
+			newTitle.setAttributeNS(null,"align","left");
+			
+			//newText.setAttributeNS(null, 'transform', 'scale(' + tipScale + ',' + tipScale + ')' );
+			newTitle.setAttributeNS(null,"fill","black");
+			 var textNode = document.createTextNode(titleValue);
+			 newTitle.appendChild(textNode);
+			 toolTipText.appendChild(newTitle);
+
+		//Generate the docu *********
+
+
+		var words = descValue.split(" ");
+
+		//for (zahler=0; zahler<=descValue.length/twrap;zahler++){
+
+		//alert(zahler);
+			 var zahler=0;
+			 var arry =[];
+			 var len=0;
+			 var lines=0;
+			 var message="";
+			while (zahler<words.length){
+				if (len< twrap){ 
+				//if (helpText.getBBox().width<twrap*4){
+					arry.push(words[zahler]);
+					len=len+words[zahler].length;
+					message=message+" "+words[zahler];
+					//helpNode.nodeValue=message;
+					zahler++;
+				}
+				
+				if ((len >=twrap) || (zahler>=words.length))
+				//if ((helpText.getBBox().width >=twrap*4) || (zahler>=words.length))
+					{
+					//alert(message);
+					var newText = document.createElementNS(svgns,"tspan"); 
+					newText.setAttributeNS(null,"x",5);		
+					newText.setAttributeNS(null,"y",35+lines*14);	
+					newText.setAttributeNS(null,"font-size","10px");
+					newText.setAttributeNS(null,"align","left");
+					newText.setAttributeNS(null,"fill","blue");
+					//var delta=(twrap*4-helpText.getBBox().width)/(arry.length-1);
+					//if ((delta<0) ||(delta>9999))
+					//{delta=0;
+					//}
+					//newText.setAttributeNS(null,"word-spacing",delta);
+					var textNode = document.createTextNode(arry.join(" "));
+					newText.appendChild(textNode);
+					newTitle.appendChild(newText);
+					lines++;
+					arry=[];
+					message=" ";
+					//helpNode.nodeValue=" ";
+					len=0;
+			 }
+		}
+
+           var descDisplay = 'none';
+            if ( '' != descValue )
+            {
+               //tipDesc.firstChild.nodeValue = 'l '; //descValue;
+	       
+               descDisplay = 'inline';
+            }
+           
+         }
+
+         // if there are tooltip contents to be displayed, adjust the size and position of the box
+         if ( '' != titleValue )
+         {
+			
+			var xPos = TrueCoords.x + (10 * tipScale);
+			//a quick hack to align the textbox
+			//if (xPos>100){xPos=xPos-100;}
+            var yPos = TrueCoords.y + (10 * tipScale);
+
+            //return rectangle around text as SVGRect object
+			toolTip.setAttributeNS(null, 'visibility', 'visible'); //we need to display it first otherwise bbox in IE is negative
+			//first make it small so there is no influence of the rectangle
+			tipBox.setAttributeNS(null, 'width', 1);
+            tipBox.setAttributeNS(null, 'height', 1);  
+            var outline = toolTip.getBBox();
+            tipBox.setAttributeNS(null, 'width', Number(outline.width) + 10);
+            tipBox.setAttributeNS(null, 'height', Number(outline.height) + 10);  
+	  
+			
+			
+            // update position
+			//alert(outline.width);
+			//alert(xPos);
+			//alert(docuWidth);
+			if (xPos+outline.width > docuWidth) {
+				xPos=docuWidth-outline.width;
+			}
+            toolTip.setAttributeNS(null, 'transform', 'translate(' + xPos + ',' + yPos + ')');
+		
+	      
+         }
+	 
+      };
+     
+
+   ]]></script>
+   
+  <g id="textbox1"/>
